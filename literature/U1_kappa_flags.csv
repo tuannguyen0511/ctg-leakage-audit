@@ -1,4 +1,0 @@
-flag,coder1_yes,coder2_yes,agree_pct,kappa
-leaky_split,5,5,100.0,1.0
-resampling_before_split,6,3,91.2,0.622
-selection_on_test,3,14,67.6,0.243

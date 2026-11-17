@@ -37,7 +37,7 @@ The design changes one evaluation step at a time on identical data, folds, model
 | `plan/` | Analysis plan with dated amendments (in Vietnamese). An English summary of the amendments is in Supplementary Table S1 of the paper |
 | `manifests/` | SHA-256 manifests of frozen outputs, run registry, number-trace tables |
 | `outputs/` | Frozen aggregate outputs: tables, figures and summaries. `t11a_review` and `t11b_review` hold the post hoc analyses; `t10c_figures` holds the manuscript figures |
-| `literature/` | Coded literature audit of 34 CTU-UHB studies, second extraction and agreement (κ) |
+| `literature/` | Coded literature audit of 34 CTU-UHB studies, with verification notes |
 
 ## Running the code
 The scripts import `common.*` and `P21_CTG_Acidemia.src.*`, so they expect this layout:
