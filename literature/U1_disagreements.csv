@@ -1,0 +1,84 @@
+id,author,year,item,coder1,coder2
+S002,Spilka/Georgoulas,2013,unit_of_split,record,unclear
+S008,Comert/Kocamaz,2017,unit_of_split,unclear,record
+S009,Comert/Kocamaz,2017,unit_of_split,unclear,record
+S010,Comert/Kocamaz,2018,unit_of_split,unclear,record
+S011,Comert/Kocamaz,2018,unit_of_split,unclear,record
+S012,Comert/Zhao,2018,unit_of_split,unclear,record
+S019,O'Sullivan,2021,unit_of_split,record,unclear
+S029,Alqahtani/Alotibi/Alotaiby,2025,unit_of_split,unclear,record
+S002,Spilka/Georgoulas,2013,oversampling,after_split,unclear
+S003,Georgoulas,2017,oversampling,none,unclear
+S005,Zhao,2018,oversampling,none,unclear
+S006,Zhao,2019,oversampling,none,before_split
+S017,Petrozziello,2018,oversampling,none,unclear
+S018,Petrozziello,2019,oversampling,none,unclear
+S019,O'Sullivan,2021,oversampling,none,unclear
+S020,Ogasawara,2021,oversampling,none,unclear
+S021,Xiao,2022,oversampling,none,unclear
+S024,Ben M'Barek,2023,oversampling,none,unclear
+S025,Deng,2023,oversampling,none,unclear
+S026,Liu,2021,oversampling,none,unclear
+S028,Rao,2024,oversampling,none,before_split
+S031,Ben M'Barek,2025,oversampling,after_split,unclear
+S032,Mendis,2025,oversampling,none,unclear
+S033,Chiou,2025,oversampling,none,unclear
+S034,Fridman/Ben Shachar,2026,oversampling,none,unclear
+S035,Tjondronegoro,2026,oversampling,none,unclear
+S036,Mendis,2026,oversampling,none,unclear
+S002,Spilka/Georgoulas,2013,model_selection,inner_validation,unclear
+S005,Zhao,2018,model_selection,unclear,on_test
+S006,Zhao,2019,model_selection,inner_validation,separate_validation
+S008,Comert/Kocamaz,2017,model_selection,unclear,on_test
+S009,Comert/Kocamaz,2017,model_selection,unclear,on_test
+S010,Comert/Kocamaz,2018,model_selection,unclear,on_test
+S011,Comert/Kocamaz,2018,model_selection,unclear,on_test
+S012,Comert/Zhao,2018,model_selection,unclear,on_test
+S015,Fuentealba/Illanes/Ortmeier,2019,model_selection,inner_validation,on_test
+S017,Petrozziello,2018,model_selection,inner_validation,separate_validation
+S018,Petrozziello,2019,model_selection,inner_validation,separate_validation
+S019,O'Sullivan,2021,model_selection,inner_validation,unclear
+S020,Ogasawara,2021,model_selection,unclear,separate_validation
+S021,Xiao,2022,model_selection,unclear,on_test
+S024,Ben M'Barek,2023,model_selection,inner_validation,separate_validation
+S025,Deng,2023,model_selection,unclear,on_test
+S028,Rao,2024,model_selection,unclear,on_test
+S029,Alqahtani/Alotibi/Alotaiby,2025,model_selection,unclear,on_test
+S030,McCoy,2024,model_selection,inner_validation,separate_validation
+S031,Ben M'Barek,2025,model_selection,inner_validation,separate_validation
+S032,Mendis,2025,model_selection,inner_validation,separate_validation
+S033,Chiou,2025,model_selection,inner_validation,separate_validation
+S034,Fridman/Ben Shachar,2026,model_selection,inner_validation,separate_validation
+S035,Tjondronegoro,2026,model_selection,inner_validation,unclear
+S003,Georgoulas,2017,threshold_selection,on_validation,unclear
+S017,Petrozziello,2018,threshold_selection,on_validation,unclear
+S018,Petrozziello,2019,threshold_selection,on_validation,unclear
+S019,O'Sullivan,2021,threshold_selection,prespecified,unclear
+S024,Ben M'Barek,2023,threshold_selection,on_validation,unclear
+S027,Zhao,2024,threshold_selection,prespecified,unclear
+S030,McCoy,2024,threshold_selection,on_validation,unclear
+S033,Chiou,2025,threshold_selection,prespecified,unclear
+S002,Spilka/Georgoulas,2013,signal_quality_exclusion,yes,unclear
+S003,Georgoulas,2017,signal_quality_exclusion,yes,unclear
+S005,Zhao,2018,signal_quality_exclusion,yes,unclear
+S006,Zhao,2019,signal_quality_exclusion,yes,unclear
+S007,Zhao/Deng,2019,signal_quality_exclusion,yes,unclear
+S008,Comert/Kocamaz,2017,signal_quality_exclusion,unclear,yes
+S015,Fuentealba/Illanes/Ortmeier,2019,signal_quality_exclusion,yes,unclear
+S017,Petrozziello,2018,signal_quality_exclusion,yes,unclear
+S018,Petrozziello,2019,signal_quality_exclusion,yes,unclear
+S019,O'Sullivan,2021,signal_quality_exclusion,yes,unclear
+S021,Xiao,2022,signal_quality_exclusion,yes,unclear
+S024,Ben M'Barek,2023,signal_quality_exclusion,yes,unclear
+S025,Deng,2023,signal_quality_exclusion,yes,unclear
+S028,Rao,2024,signal_quality_exclusion,unclear,yes
+S029,Alqahtani/Alotibi/Alotaiby,2025,signal_quality_exclusion,yes,unclear
+S031,Ben M'Barek,2025,signal_quality_exclusion,yes,unclear
+S033,Chiou,2025,signal_quality_exclusion,yes,unclear
+S034,Fridman/Ben Shachar,2026,signal_quality_exclusion,yes,unclear
+S035,Tjondronegoro,2026,signal_quality_exclusion,yes,unclear
+S002,Spilka/Georgoulas,2013,external_validation,no,unclear
+S013,Comert/Sengur/Budak/Kocamaz,2019,external_validation,no,unclear
+S019,O'Sullivan,2021,external_validation,no,unclear
+S026,Liu,2021,external_validation,unclear,no
+S037,Vargas-Calixto,2026,external_validation,yes,unclear

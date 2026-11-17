@@ -1,0 +1,13 @@
+=== REPORT P21-T06b ===
+status=PASS; PC-A CPU; no-training; no-new-tests
+PREREG_v1.3_SHA256=40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb
+FROZEN_SHA=PASS; locked_files=21; manifests=5
+tables: T1_cohort, T2_H1_models, T3_H1_comparisons, T4_H2_leakage, T5_exploratory
+figures: F1=2100x3000px PNG600+SVG, F2=4200x3420px PNG600+SVG, F3=4200x1920px PNG600+SVG, F4=2100x1680px PNG600+SVG, F5=2100x1680px PNG600+SVG
+NUMBERS_TRACE_rows=5077; missing_sources=0
+T2_T5_numeric_exact_match=457/457=100%; tolerance=0
+runtime_s=7.38; script_sha8=341caa20
+output_sha8: T1_cohort.csv=79e1ed52, T2_H1_models.csv=9c0ac4b7, T3_H1_comparisons.csv=b6316af0, T4_H2_leakage.csv=40daf028, T5_exploratory.csv=cecdd847
+figure_csv_sha8: F1_plot_data.csv=b3d419e0, F2_plot_data.csv=f1885f1d, F3_plot_data.csv=ffe9b973, F4_plot_data.csv=3bfb1598, F5_plot_data.csv=07aded40
+NUMBERS_TRACE_sha8=7392c16e
+=== END ===

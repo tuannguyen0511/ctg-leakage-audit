@@ -1,0 +1,8 @@
+# T01/T02 input lock — Director 2026-11-12. Đối chiếu: labels/features_w30 khớp SHA trong logs/t02_inputs_v1_1.log (+ t04_dl/run_lock.json); clinical/signal_qc: không có bản ghi SHA độc lập, mtime = lúc chạy T01 (2026-11-10 04:12 UTC), chưa sửa sau đó.
+bcabb2f0 data_proc/ctu-uhb-ctgdb/1.0.0/clinical.parquet
+64772888 data_proc/ctu-uhb-ctgdb/1.0.0/signal_qc.parquet
+bcbeb03b data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet
+3ba230a7 data_proc/ctu-uhb-ctgdb/1.0.0/features_w30.parquet
+59d82e79 data_proc/ctu-uhb-ctgdb/1.0.0/features_w60.parquet
+b0d0602e data_proc/ctu-uhb-ctgdb/1.0.0/split.csv
+75a99780 data_proc/ctu-uhb-ctgdb/1.0.0/split_noexcl.csv

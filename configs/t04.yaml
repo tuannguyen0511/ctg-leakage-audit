@@ -1,0 +1,30 @@
+task: P21-T04
+run_name: t04_dl
+prereg_version: '1.2'
+prereg_sha256: ebb799092e350b332849c07d277d9198ef3e6ef52a4b31df61958f6d1382558e
+input_dir: D:/Tuan/AI_training/data_proc/ctu-uhb-ctgdb/1.0.0
+output_root: D:/Tuan/AI_training/P21_CTG_Acidemia/outputs
+configs:
+  A_primary: {window: W30, split: split.csv, target: y705}
+  B_noexcl: {window: W30, split: split_noexcl.csv, target: y705}
+  C_w60: {window: W60, split: split.csv, target: y705}
+  D_y715: {window: W30, split: split.csv, target: y715}
+  E_y720: {window: W30, split: split.csv, target: y720}
+models: [M2, M3]
+seeds: [0, 1, 2]
+cv_repeats: 10
+cv_outer_folds: 5
+reduced_repeats: 3
+validation_fraction: 0.2
+learning_rate: 0.001
+weight_decay: 0.0001
+batch_size: 32
+max_epochs: 60
+patience: 10
+torch_threads: 4
+budget_hours: 48
+negative_control_seed: 42
+negative_control_bounds: [0.4, 0.6]
+bootstrap_resamples: 10000
+bootstrap_seed: 42
+specificity: 0.85

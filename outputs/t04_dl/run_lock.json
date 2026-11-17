@@ -1,0 +1,37 @@
+{
+  "budget": {
+    "assumption_uc_and_control_w30_M2_time_s": 4.9102476998232305,
+    "assumption_w60_factor": 2,
+    "budget_s": 172800.0,
+    "estimate_A_B_mandatory_s": 26528.3792910669,
+    "estimate_full_s": 79035.1901308205,
+    "estimate_reduced_s": 42280.42254299298,
+    "repeats": {
+      "A_primary": 10,
+      "B_noexcl": 10,
+      "C_w60": 10,
+      "D_y715": 10,
+      "E_y720": 10
+    },
+    "reproducibility_extra_M2_units": 1,
+    "rule": "FULL_10_ALL"
+  },
+  "input_sha256": {
+    "dl_w30_1hz.npz": "d7e88da5ffaec0bb99cf7822a56465869c527f18e56a5ab0ae7d1c599f447663",
+    "dl_w60_1hz.npz": "800a0a7dddb7c986e3c4229f6d315a0f9e0dad5ed362e5a5e7fceb4cccea6ea2",
+    "labels.parquet": "bcbeb03b2663d668a7c91e24b453b333de292adebbb50efa5e9bbaecd87c3a6e",
+    "split.csv": "b0d0602e3bc7f028eb14a89b44b3aa6c89a6c12df64da6ac09155d02cdbbe5ce",
+    "split_noexcl.csv": "75a997806a387ab5780f31c3b9636b79d1c6c82e94b401fd09c097872deeb8a0"
+  },
+  "pilot_sha256": "7e104ac12fdb4b42d4777ba889ab22d0ac0febb6a37bf5a732284e6d410b5b10",
+  "prereg_sha256": "ebb799092e350b332849c07d277d9198ef3e6ef52a4b31df61958f6d1382558e",
+  "python": "3.14.4",
+  "source": {
+    "common_bootstrap_sha256": "54136f611c4e0a6cac3fd8e44a075399d23636d5527954da7d2572dead6d2096",
+    "common_metrics_sha256": "8d380a01c0cb859abfe2b17ed34b1b9720e1a4070651975cbf01dcf0faa8561e",
+    "config_sha256": "14f8ed49fe2b5c21ee2b3a4e37e4c7842ec987698642518b638b522e9f74579d",
+    "script_sha256": "746a42380d4f3479ea9141bed41028c769f932077ba85dbbbcb2ea9e47839781"
+  },
+  "task": "P21-T04",
+  "torch_version": "2.15.0+cpu"
+}

@@ -1,0 +1,20 @@
+work_root: D:/Tuan/AI_training
+prereg_sha256: 40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb
+input_manifest: P21_CTG_Acidemia/reports/T06b_FROZEN_SHA.txt
+input_plot_folder: P21_CTG_Acidemia/outputs/t06b_synthesis/figures
+output_folder: P21_CTG_Acidemia/outputs/t06c_figures
+font_family: Arial
+palette:
+  blue: '#0072B2'
+  orange: '#E69F00'
+  green: '#009E73'
+  vermillion: '#D55E00'
+  purple: '#CC79A7'
+  black: '#000000'
+  grey: '#999999'
+figure_specs:
+  F1: {width_in: 3.5, height_in: 5.0}
+  F2: {width_in: 7.0, height_in: 5.4}
+  F3: {width_in: 7.0, height_in: 3.2}
+  F4: {width_in: 3.5, height_in: 2.8}
+  F5: {width_in: 3.5, height_in: 2.8}

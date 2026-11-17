@@ -1,0 +1,75 @@
+{
+  "budget_rule": "FULL_10_ALL",
+  "config": "C_w60",
+  "models": {
+    "M2": {
+      "max_seed_auroc_difference": 0.023155737704918078,
+      "mean_probability_over_repeats_and_seeds": {
+        "auprc_average_precision": 0.13011092403602684,
+        "auprc_ci95": [
+          0.07685429662654701,
+          0.24092178265691253
+        ],
+        "auroc": 0.7144808743169399,
+        "auroc_ci95": [
+          0.6321890156535015,
+          0.7938447612582031
+        ],
+        "bootstrap_requested": 10000,
+        "bootstrap_seed": 42,
+        "bootstrap_unit": "record",
+        "bootstrap_valid": 10000,
+        "brier": 0.21008560886718883,
+        "calibration_intercept_offset_logit": -2.6984940995985585,
+        "calibration_slope": 1.2918911846692904,
+        "prevalence": 0.05791505791505792,
+        "sensitivity_at_specificity_0_85": 0.3
+      },
+      "seed0_repeat_auprc_mean": 0.12397037916026772,
+      "seed0_repeat_auprc_sd": 0.013476002231119484,
+      "seed0_repeat_auroc_mean": 0.6792554644808744,
+      "seed0_repeat_auroc_sd": 0.02541501867387049,
+      "seed_auroc_averaged_over_repeats": {
+        "s0": 0.7113387978142077,
+        "s1": 0.7265710382513662,
+        "s2": 0.7034153005464481
+      }
+    },
+    "M3": {
+      "max_seed_auroc_difference": 0.008879781420764954,
+      "mean_probability_over_repeats_and_seeds": {
+        "auprc_average_precision": 0.1472032711949022,
+        "auprc_ci95": [
+          0.08358003654260679,
+          0.2761972804761596
+        ],
+        "auroc": 0.7282786885245901,
+        "auroc_ci95": [
+          0.6470089325791062,
+          0.805466472303207
+        ],
+        "bootstrap_requested": 10000,
+        "bootstrap_seed": 42,
+        "bootstrap_unit": "record",
+        "bootstrap_valid": 10000,
+        "brier": 0.18411129559883513,
+        "calibration_intercept_offset_logit": -2.5862103722665983,
+        "calibration_slope": 1.0139463164399662,
+        "prevalence": 0.05791505791505792,
+        "sensitivity_at_specificity_0_85": 0.36666666666666664
+      },
+      "seed0_repeat_auprc_mean": 0.12348728233695676,
+      "seed0_repeat_auprc_sd": 0.023402234195422655,
+      "seed0_repeat_auroc_mean": 0.6978825136612021,
+      "seed0_repeat_auroc_sd": 0.03085725251240552,
+      "seed_auroc_averaged_over_repeats": {
+        "s0": 0.7237021857923497,
+        "s1": 0.721448087431694,
+        "s2": 0.7303278688524589
+      }
+    }
+  },
+  "num_repeats": 10,
+  "prereg_sha256": "ebb799092e350b332849c07d277d9198ef3e6ef52a4b31df61958f6d1382558e",
+  "task": "P21-T04"
+}

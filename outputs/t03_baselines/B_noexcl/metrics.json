@@ -1,0 +1,162 @@
+{
+  "M0": {
+    "repeated_oof": [
+      {
+        "repeat": 0,
+        "auroc": 0.62080078125,
+        "auprc": 0.18182095010989713
+      },
+      {
+        "repeat": 1,
+        "auroc": 0.626806640625,
+        "auprc": 0.155101819260951
+      },
+      {
+        "repeat": 2,
+        "auroc": 0.61875,
+        "auprc": 0.16552251568902193
+      },
+      {
+        "repeat": 3,
+        "auroc": 0.5820800781250001,
+        "auprc": 0.13666930773128283
+      },
+      {
+        "repeat": 4,
+        "auroc": 0.6148925781250001,
+        "auprc": 0.16029342661224663
+      },
+      {
+        "repeat": 5,
+        "auroc": 0.6513671875000001,
+        "auprc": 0.22620114667439511
+      },
+      {
+        "repeat": 6,
+        "auroc": 0.6513671875000001,
+        "auprc": 0.1953125612290641
+      },
+      {
+        "repeat": 7,
+        "auroc": 0.613427734375,
+        "auprc": 0.1475166977133637
+      },
+      {
+        "repeat": 8,
+        "auroc": 0.671630859375,
+        "auprc": 0.16634542431914734
+      },
+      {
+        "repeat": 9,
+        "auroc": 0.648779296875,
+        "auprc": 0.18143387904984284
+      }
+    ],
+    "auroc_repeat_mean": 0.629990234375,
+    "auroc_repeat_sd": 0.02586177285951764,
+    "auprc_repeat_mean": 0.17162177283892127,
+    "auprc_repeat_sd": 0.025840262937172745,
+    "mean_probability_metrics": {
+      "auroc": 0.6376464843749999,
+      "auprc_average_precision": 0.18040067346065589,
+      "brier": 0.2055183949213106,
+      "calibration_intercept_offset_logit": -2.4484708992619297,
+      "calibration_slope": 0.7034006512642967,
+      "sensitivity_at_specificity_0_85": 0.325,
+      "prevalence": 0.07246376811594203
+    },
+    "auroc_ci95": [
+      0.5362035225048923,
+      0.7334772647209293
+    ],
+    "auprc_ci95": [
+      0.0969763109657724,
+      0.30245911763710165
+    ],
+    "bootstrap_seed": 42,
+    "bootstrap_requested": 10000,
+    "bootstrap_valid": 10000,
+    "bootstrap_unit": "record",
+    "prereg_sha256": "df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89"
+  },
+  "M1": {
+    "repeated_oof": [
+      {
+        "repeat": 0,
+        "auroc": 0.7055908203125,
+        "auprc": 0.2007408053072301
+      },
+      {
+        "repeat": 1,
+        "auroc": 0.6444091796875,
+        "auprc": 0.1516255962017654
+      },
+      {
+        "repeat": 2,
+        "auroc": 0.7322265625000001,
+        "auprc": 0.23352889166403734
+      },
+      {
+        "repeat": 3,
+        "auroc": 0.68681640625,
+        "auprc": 0.2171091509866888
+      },
+      {
+        "repeat": 4,
+        "auroc": 0.698583984375,
+        "auprc": 0.183438325910307
+      },
+      {
+        "repeat": 5,
+        "auroc": 0.671826171875,
+        "auprc": 0.18215120992918568
+      },
+      {
+        "repeat": 6,
+        "auroc": 0.7074218750000001,
+        "auprc": 0.20875110449358175
+      },
+      {
+        "repeat": 7,
+        "auroc": 0.7049560546875,
+        "auprc": 0.21601896501405837
+      },
+      {
+        "repeat": 8,
+        "auroc": 0.69541015625,
+        "auprc": 0.1873847554520024
+      },
+      {
+        "repeat": 9,
+        "auroc": 0.689013671875,
+        "auprc": 0.1847661603861557
+      }
+    ],
+    "auroc_repeat_mean": 0.6936254882812501,
+    "auroc_repeat_sd": 0.02343974194576844,
+    "auprc_repeat_mean": 0.19655149653450127,
+    "auprc_repeat_sd": 0.0234660305016443,
+    "mean_probability_metrics": {
+      "auroc": 0.7225097656249999,
+      "auprc_average_precision": 0.23440649746071765,
+      "brier": 0.09864177892979589,
+      "calibration_intercept_offset_logit": -1.5674729673050867,
+      "calibration_slope": 0.6935522902325618,
+      "sensitivity_at_specificity_0_85": 0.5,
+      "prevalence": 0.07246376811594203
+    },
+    "auroc_ci95": [
+      0.6222587509251793,
+      0.8123095365741448
+    ],
+    "auprc_ci95": [
+      0.14117221385835613,
+      0.3710301422708253
+    ],
+    "bootstrap_seed": 42,
+    "bootstrap_requested": 10000,
+    "bootstrap_valid": 10000,
+    "bootstrap_unit": "record",
+    "prereg_sha256": "df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89"
+  }
+}

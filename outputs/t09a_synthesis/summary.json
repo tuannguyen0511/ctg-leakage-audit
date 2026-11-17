@@ -1,0 +1,50 @@
+{
+ "trace_rows": 248,
+ "trace_matched": 248,
+ "match_pct": 100.0,
+ "fisher": [
+  {
+   "outcome": "y705",
+   "excluded_pos": 10,
+   "total_pos": 40,
+   "pct_excl_pos": 25.0,
+   "excluded_neg": 24,
+   "total_neg": 512,
+   "pct_excl_neg": 4.6875,
+   "conditional_OR": 6.732558093395012,
+   "OR_ci_low": 2.6273362779098317,
+   "OR_ci_high": 16.301661186427232,
+   "fisher_p": 4.74214853660666e-05,
+   "note": "post hoc"
+  },
+  {
+   "outcome": "y715",
+   "excluded_pos": 11,
+   "total_pos": 105,
+   "pct_excl_pos": 10.476190476190476,
+   "excluded_neg": 23,
+   "total_neg": 447,
+   "pct_excl_neg": 5.145413870246085,
+   "conditional_OR": 2.153632068343181,
+   "OR_ci_low": 0.9146921785418355,
+   "OR_ci_high": 4.790051877535819,
+   "fisher_p": 0.06714292322236005,
+   "note": "post hoc"
+  },
+  {
+   "outcome": "y720",
+   "excluded_pos": 13,
+   "total_pos": 177,
+   "pct_excl_pos": 7.344632768361582,
+   "excluded_neg": 21,
+   "total_neg": 375,
+   "pct_excl_neg": 5.6,
+   "conditional_OR": 1.3355055880963032,
+   "OR_ci_low": 0.5986480958003488,
+   "OR_ci_high": 2.874781261145021,
+   "fisher_p": 0.4503622425030054,
+   "note": "post hoc"
+  }
+ ],
+ "font_note": "SVG text keeps font-family Arial; PNG rendered with Liberation Sans (Arial-metric) because Arial is not installed on the render host"
+}

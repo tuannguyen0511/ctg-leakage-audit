@@ -1,0 +1,6 @@
+run_name: t01_audit
+seed: 42
+raw_dir: D:/Tuan/AI_training/data_raw/ctu-uhb-ctgdb/1.0.0
+derived_dir: D:/Tuan/AI_training/data_proc/ctu-uhb-ctgdb/1.0.0
+output_root: D:/Tuan/AI_training/P21_CTG_Acidemia/outputs
+stage1_windows_minutes: [30, 60]

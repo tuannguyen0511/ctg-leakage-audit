@@ -1,0 +1,14 @@
+{
+  "task": "P21-T07c",
+  "prereg": "df06f9dd107ffb5b4132af3ade17aa9fec6c71d3f0b8154803c8ddfc3c59a557",
+  "repo_git_commit": "407a279ea55458b0512fd709646c5646dc2ef669",
+  "t02_frozen_sha": {
+    "labels.parquet": "bcbeb03b2663d668a7c91e24b453b333de292adebbb50efa5e9bbaecd87c3a6e",
+    "split.csv": "b0d0602e3bc7f028eb14a89b44b3aa6c89a6c12df64da6ac09155d02cdbbe5ce"
+  },
+  "t07b_reference_sha8": {
+    "metrics.json": "fc6531ea",
+    "per_record.csv": "6a9e471e"
+  },
+  "python_sha256": "53e684f78547097984177500fbdf409d3c0e8a41165a32a97b4f8a3d0190e9fe"
+}

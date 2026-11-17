@@ -1,0 +1,9 @@
+box,text
+A,CTU-UHB recordings n = 552 (pH < 7.05: 40)
+S,"Sensitivity analysis: no exclusion, n = 552"
+E,Excluded: > 50% FHR missing in last 30 min of stage 1 n = 34 (acidaemic 10) 31 without second stage
+B,Primary cohort n = 518 (pH < 7.05: 30)
+C,"Strict protocol S recording-level nested CV, 10 × 5 × 5, 4 models"
+D,Single-factor perturbations L1–L4 GBDT and CNN (+ ResNet for L1) repetitions 0–2
+G,Label-permutation controls S ×100; L1 ×10; L2 ×20
+F,"L1: 10-min segments, 50% overlap, whole first stage 5,224 retained; 499 dropped"

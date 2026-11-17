@@ -1,0 +1,312 @@
+{
+  "N_eligible": 518,
+  "analysis": "DESCRIPTIVE_NOT_HOLM",
+  "comparisons": {
+    "E2_v2": {
+      "gt_median": {
+        "delta": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            -0.07672438941053988,
+            0.23688801909652743
+          ],
+          "ci95_l": [
+            0.5913059710351377,
+            0.7979224975430785
+          ],
+          "ci95_s": [
+            0.49216228676809587,
+            0.7404851730797265
+          ],
+          "delta": 0.08003201280512195,
+          "p_raw": 0.3058
+        },
+        "m1v2_auroc": 0.6188475390156063,
+        "m1v2_ci95": [
+          0.49216228676809587,
+          0.7404851730797265
+        ],
+        "m3_auroc": 0.6988795518207283,
+        "m3_ci95": [
+          0.5913059710351377,
+          0.7979224975430785
+        ],
+        "median_missing_cut": 10.5,
+        "n": 259,
+        "positives": 21
+      },
+      "le_median": {
+        "delta": {
+          "bootstrap_valid": 9999,
+          "ci95": [
+            0.0736780045351474,
+            0.4637686865228803
+          ],
+          "ci95_l": [
+            0.6106719367588933,
+            0.8686933448078025
+          ],
+          "ci95_s": [
+            0.27820669344042837,
+            0.6909888400130335
+          ],
+          "delta": 0.26133333333333336,
+          "p_raw": 0.0056005600560056
+        },
+        "m1v2_auroc": 0.4871111111111111,
+        "m1v2_ci95": [
+          0.27820669344042837,
+          0.6909888400130335
+        ],
+        "m3_auroc": 0.7484444444444445,
+        "m3_ci95": [
+          0.6106719367588933,
+          0.8686933448078025
+        ],
+        "median_missing_cut": 10.5,
+        "n": 259,
+        "positives": 9
+      }
+    },
+    "leakage": {
+      "L1": {
+        "record": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            0.08906226040960916,
+            0.19500319189119664
+          ],
+          "ci95_l": [
+            0.7006688769577784,
+            0.8683717519368565
+          ],
+          "ci95_s": [
+            0.5373910898077952,
+            0.7591574262653691
+          ],
+          "delta": 0.1382513661202185,
+          "p_raw": 0.0001
+        },
+        "segment": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            0.06082733854883151,
+            0.13860887361568855
+          ],
+          "ci95_l": [
+            0.6523324234208674,
+            0.7788624110956053
+          ],
+          "ci95_s": [
+            0.534324255652502,
+            0.7003026003523067
+          ],
+          "delta": 0.09822692220498708,
+          "p_raw": 0.0001
+        }
+      },
+      "L2": {
+        "auroc_all_augmented_descriptive": 0.9869532719699006,
+        "real_record": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            0.15774454005127755,
+            0.36890228930726554
+          ],
+          "ci95_l": [
+            0.7770818899407659,
+            0.916199024034701
+          ],
+          "ci95_s": [
+            0.48164190777525584,
+            0.6962993005082285
+          ],
+          "delta": 0.26236338797814207,
+          "p_raw": 0.0001
+        }
+      },
+      "L3": {
+        "auroc_all_augmented_descriptive": null,
+        "real_record": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            -0.04674846192623502,
+            0.10175970234183004
+          ],
+          "ci95_l": [
+            0.5193635286465004,
+            0.711604345492405
+          ],
+          "ci95_s": [
+            0.48164190777525584,
+            0.6962993005082285
+          ],
+          "delta": 0.026092896174863323,
+          "p_raw": 0.4858
+        }
+      }
+    },
+    "model_metrics": {
+      "M0": {
+        "auroc": 0.5795765027322405,
+        "ci95": [
+          0.45809294871794876,
+          0.6975204971892074
+        ],
+        "n": 518
+      },
+      "M0-v2": {
+        "auroc": 0.5566939890710383,
+        "ci95": [
+          0.4326921968649147,
+          0.6772510592205159
+        ],
+        "n": 518
+      },
+      "M1": {
+        "auroc": 0.6007513661202186,
+        "ci95": [
+          0.4812444713472141,
+          0.7177853468670841
+        ],
+        "n": 518
+      },
+      "M1-v2": {
+        "auroc": 0.5898224043715847,
+        "ci95": [
+          0.48164190777525584,
+          0.6962993005082285
+        ],
+        "n": 518
+      },
+      "M2": {
+        "auroc": 0.7150273224043716,
+        "ci95": [
+          0.6350797818649326,
+          0.7906542370955764
+        ],
+        "n": 518
+      },
+      "M3": {
+        "auroc": 0.7325136612021858,
+        "ci95": [
+          0.6510033758515845,
+          0.806489116067569
+        ],
+        "n": 518
+      }
+    },
+    "original_T05_leakage": {
+      "L1": {
+        "ci95": [
+          0.056286266667096296,
+          0.12564669857253144
+        ],
+        "delta": 0.09001518268930264,
+        "record": {
+          "bootstrap_valid": 10000,
+          "ci95": [
+            0.07678488779866433,
+            0.18519504848662943
+          ],
+          "ci95_l": [
+            0.712099072548274,
+            0.8745498971193416
+          ],
+          "ci95_s": [
+            0.5676580719023383,
+            0.7695399014210864
+          ],
+          "delta": 0.12903005464480877,
+          "p_raw": 0.0001
+        }
+      },
+      "L2": {
+        "ci95": [
+          0.1450791891698131,
+          0.3428839887252047
+        ],
+        "delta": 0.2402322404371584
+      },
+      "L3": {
+        "ci95": [
+          -0.09255916738797916,
+          0.0873718023626876
+        ],
+        "delta": -0.002049180327868827
+      }
+    }
+  },
+  "cpu_only": true,
+  "input_sha8": {
+    "LOCK::T02_FROZEN_SHA.txt": "98857a28",
+    "LOCK::T03_FROZEN_SHA.txt": "aea41648",
+    "LOCK::T04_FROZEN_SHA.txt": "3b0c3025",
+    "LOCK::T05_FROZEN_SHA.txt": "98bc6e86",
+    "LOCK::T07c_FROZEN_SHA.txt": "14a5a1ad",
+    "SOURCE::configs/t02.yaml": "2c0b3d2e",
+    "SOURCE::configs/t03.yaml": "f8820bfb",
+    "SOURCE::configs/t05.yaml": "c7d9bde7",
+    "SOURCE::src/ctg_features.py": "d81bd792",
+    "SOURCE::src/t03_baselines.py": "b87eac8e",
+    "SOURCE::src/t05_leakage.py": "35232edc",
+    "SOURCE::t05_summary.json": "abad85ae",
+    "features_w30.parquet": "3ba230a7",
+    "labels.parquet": "bcbeb03b",
+    "outputs/t03_baselines/A_primary/oof.parquet": "5f489081",
+    "outputs/t04_dl/A_primary/oof.parquet": "62a0da0e",
+    "outputs/t05_leakage/h2_tests.csv": "f7dba83f",
+    "outputs/t05_leakage/oof_L1.parquet": "4c8f5220",
+    "outputs/t05_leakage/oof_L2.parquet": "866729ae",
+    "outputs/t05_leakage/oof_L3.parquet": "1aeabf6a",
+    "outputs/t05_leakage/oof_S_seg.parquet": "0d7022cf",
+    "outputs/t05_leakage/segments_cache.npz": "4e65ba3f",
+    "outputs/t05_leakage/segments_meta.parquet": "c3e50ee3",
+    "split.csv": "b0d0602e",
+    "wmfb_baseline.npz": "e14a8269",
+    "wmfb_events.parquet": "0ef91b78"
+  },
+  "missing_features": {
+    "features_sha256": "d8653b6e6bbf055427993d36a54ad22544a34084b8a2d853697554b4173e4f3c",
+    "missing_features_segments": {
+      "baseline_v2": 0,
+      "decel_area_v2": 0,
+      "hf_power": 0,
+      "lf_power": 0,
+      "ltv": 0,
+      "n_accel_v2": 0,
+      "n_contractions": 203,
+      "n_decel_v2": 0,
+      "n_prolonged_decel_v2": 0,
+      "pct_min_var": 0,
+      "stv_ms": 0
+    },
+    "missing_features_w30": {
+      "baseline_v2": 0,
+      "decel_area_v2": 0,
+      "hf_power": 0,
+      "lf_power": 0,
+      "ltv": 0,
+      "n_accel_v2": 0,
+      "n_contractions": 63,
+      "n_decel_v2": 0,
+      "n_prolonged_decel_v2": 0,
+      "pct_min_var": 0,
+      "stv_ms": 1
+    },
+    "rows_segments": 5224,
+    "rows_w30": 552,
+    "seconds": 2.3143916000008176,
+    "segments_sha256": "3bac08c7628ad199272d226e3362893426f6c526d49addb937d28442f39fdb9a"
+  },
+  "n_units": 160,
+  "prereg_sha256": "df06f9dd107ffb5b4132af3ade17aa9fec6c71d3f0b8154803c8ddfc3c59a557",
+  "runtime_s": {
+    "finalize": 186.3793237000009,
+    "prepare": 2.3143916000008176,
+    "units_total": 3473.7083882000115
+  },
+  "script_sha8": "767b2fa6",
+  "status": "PASS",
+  "task": "P21-T07d"
+}

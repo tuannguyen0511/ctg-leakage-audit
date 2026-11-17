@@ -1,0 +1,9 @@
+{
+  "budget_rule": "FULL_10_ALL",
+  "negative_control_auroc": 0.4221994535519125,
+  "prereg_sha256": "ebb799092e350b332849c07d277d9198ef3e6ef52a4b31df61958f6d1382558e",
+  "reproducibility_max_abs_diff": 0.0,
+  "script_sha256": "746a42380d4f3479ea9141bed41028c769f932077ba85dbbbcb2ea9e47839781",
+  "status": "PASS",
+  "unit_count": 1555
+}

@@ -1,0 +1,8 @@
+task: P21-T06b
+run_name: t06b_synthesis
+prereg_version: '1.3'
+prereg_sha256: 40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb
+work_root: D:/Tuan/AI_training
+cpu_threads: 4
+figure_dpi: 600
+font_family: Arial

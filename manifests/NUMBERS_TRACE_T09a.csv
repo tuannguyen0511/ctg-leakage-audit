@@ -1,0 +1,249 @@
+table,row,column,value,source_file,source_sha8,source_field
+T6,y705,excluded_pos,10.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_pos from columns y705,excluded"
+T6,y705,total_pos,40.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_pos from columns y705,excluded"
+T6,y705,pct_excl_pos,25.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_pos from columns y705,excluded"
+T6,y705,excluded_neg,24.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_neg from columns y705,excluded"
+T6,y705,total_neg,512.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_neg from columns y705,excluded"
+T6,y705,pct_excl_neg,4.6875,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_neg from columns y705,excluded"
+T6,y705,conditional_OR,6.732558093395012,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:conditional_OR from columns y705,excluded"
+T6,y705,OR_ci_low,2.6273362779098317,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_low from columns y705,excluded"
+T6,y705,OR_ci_high,16.301661186427232,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_high from columns y705,excluded"
+T6,y705,fisher_p,4.74214853660666e-05,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:fisher_p from columns y705,excluded"
+T6,y715,excluded_pos,11.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_pos from columns y715,excluded"
+T6,y715,total_pos,105.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_pos from columns y715,excluded"
+T6,y715,pct_excl_pos,10.476190476190476,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_pos from columns y715,excluded"
+T6,y715,excluded_neg,23.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_neg from columns y715,excluded"
+T6,y715,total_neg,447.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_neg from columns y715,excluded"
+T6,y715,pct_excl_neg,5.145413870246085,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_neg from columns y715,excluded"
+T6,y715,conditional_OR,2.153632068343181,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:conditional_OR from columns y715,excluded"
+T6,y715,OR_ci_low,0.9146921785418355,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_low from columns y715,excluded"
+T6,y715,OR_ci_high,4.790051877535819,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_high from columns y715,excluded"
+T6,y715,fisher_p,0.06714292322236005,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:fisher_p from columns y715,excluded"
+T6,y720,excluded_pos,13.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_pos from columns y720,excluded"
+T6,y720,total_pos,177.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_pos from columns y720,excluded"
+T6,y720,pct_excl_pos,7.344632768361582,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_pos from columns y720,excluded"
+T6,y720,excluded_neg,21.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:excluded_neg from columns y720,excluded"
+T6,y720,total_neg,375.0,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:total_neg from columns y720,excluded"
+T6,y720,pct_excl_neg,5.6,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:pct_excl_neg from columns y720,excluded"
+T6,y720,conditional_OR,1.3355055880963032,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:conditional_OR from columns y720,excluded"
+T6,y720,OR_ci_low,0.5986480958003488,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_low from columns y720,excluded"
+T6,y720,OR_ci_high,2.874781261145021,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:OR_ci_high from columns y720,excluded"
+T6,y720,fisher_p,0.4503622425030054,data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet,bcbeb03b,"computed:fisher_p from columns y720,excluded"
+T6,Logistic (features),AUROC_A,0.5795765027322404,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M0.mean_probability_metrics.auroc
+T6,Logistic (features),CI_low_A,0.45809294871794876,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M0.auroc_ci95.0
+T6,Logistic (features),CI_high_A,0.6975204971892074,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M0.auroc_ci95.1
+T6,Logistic (features),AUROC_B,0.6376464843749999,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M0.mean_probability_metrics.auroc
+T6,Logistic (features),CI_low_B,0.5362035225048923,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M0.auroc_ci95.0
+T6,Logistic (features),CI_high_B,0.7334772647209293,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M0.auroc_ci95.1
+T6,GBDT (features),AUROC_A,0.6007513661202186,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M1.mean_probability_metrics.auroc
+T6,GBDT (features),CI_low_A,0.4812444713472141,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M1.auroc_ci95.0
+T6,GBDT (features),CI_high_A,0.7177853468670841,P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json,b3a9c8c8,M1.auroc_ci95.1
+T6,GBDT (features),AUROC_B,0.7225097656249999,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M1.mean_probability_metrics.auroc
+T6,GBDT (features),CI_low_B,0.6222587509251793,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M1.auroc_ci95.0
+T6,GBDT (features),CI_high_B,0.8123095365741448,P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json,db38ae9f,M1.auroc_ci95.1
+T6,CNN,AUROC_A,0.7150273224043715,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M2.mean_probability_over_repeats_and_seeds.auroc
+T6,CNN,CI_low_A,0.6350797818649326,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M2.mean_probability_over_repeats_and_seeds.auroc_ci95.0
+T6,CNN,CI_high_A,0.7906542370955764,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M2.mean_probability_over_repeats_and_seeds.auroc_ci95.1
+T6,CNN,AUROC_B,0.7521484374999999,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M2.mean_probability_over_repeats_and_seeds.auroc
+T6,CNN,CI_low_B,0.6809517056035431,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M2.mean_probability_over_repeats_and_seeds.auroc_ci95.0
+T6,CNN,CI_high_B,0.8170728933174319,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M2.mean_probability_over_repeats_and_seeds.auroc_ci95.1
+T6,ResNet,AUROC_A,0.7325136612021859,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M3.mean_probability_over_repeats_and_seeds.auroc
+T6,ResNet,CI_low_A,0.6510033758515845,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M3.mean_probability_over_repeats_and_seeds.auroc_ci95.0
+T6,ResNet,CI_high_A,0.806489116067569,P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json,af48a9c9,models.M3.mean_probability_over_repeats_and_seeds.auroc_ci95.1
+T6,ResNet,AUROC_B,0.756689453125,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M3.mean_probability_over_repeats_and_seeds.auroc
+T6,ResNet,CI_low_B,0.6861276724931887,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M3.mean_probability_over_repeats_and_seeds.auroc_ci95.0
+T6,ResNet,CI_high_B,0.8196127306647538,P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json,63bbbdd1,models.M3.mean_probability_over_repeats_and_seeds.auroc_ci95.1
+T6,Signal loss only (E1),AUROC_A,0.5939207650273224,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/A_primary:estimate
+T6,Signal loss only (E1),CI_low_A,0.4928227690131542,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/A_primary:ci95_low
+T6,Signal loss only (E1),CI_high_A,0.6901066462914817,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/A_primary:ci95_high
+T6,Signal loss only (E1),AUROC_B,0.668505859375,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/B_noexcl:estimate
+T6,Signal loss only (E1),CI_low_B,0.5754860343781125,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/B_noexcl:ci95_low
+T6,Signal loss only (E1),CI_high_B,0.7573252498039981,P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv,324834c6,row E1/B_noexcl:ci95_high
+T7,Original extractor,MAE_bpm,6.989252684846132,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.baseline_mae_bpm.estimate
+T7,Original extractor,MAE_bpm_lo,6.13819814053884,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.baseline_mae_bpm.ci95_cluster_record.0
+T7,Original extractor,MAE_bpm_hi,7.866674956730748,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.baseline_mae_bpm.ci95_cluster_record.1
+T7,Original extractor,Acc_F1,0.22591943957968477,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.accel_f1.estimate
+T7,Original extractor,Acc_F1_lo,0.15003298245348604,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.accel_f1.ci95_cluster_record.0
+T7,Original extractor,Acc_F1_hi,0.29791272717722445,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.accel_f1.ci95_cluster_record.1
+T7,Original extractor,Dec_F1,0.34466588511137164,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.decel_f1.estimate
+T7,Original extractor,Dec_F1_lo,0.2954629201101928,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.decel_f1.ci95_cluster_record.0
+T7,Original extractor,Dec_F1_hi,0.4048801442395721,P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json,fc6531ea,splits.train.metrics.decel_f1.ci95_cluster_record.1
+T7,WMFB,MAE_bpm,3.6344636736662337,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.baseline_mae_bpm.estimate
+T7,WMFB,MAE_bpm_lo,2.9447431669622794,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.baseline_mae_bpm.ci95_cluster_record.0
+T7,WMFB,MAE_bpm_hi,4.425687048320865,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.baseline_mae_bpm.ci95_cluster_record.1
+T7,WMFB,Acc_F1,0.6208651399491094,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.accel_f1.estimate
+T7,WMFB,Acc_F1_lo,0.5636547638567404,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.accel_f1.ci95_cluster_record.0
+T7,WMFB,Acc_F1_hi,0.673588925479634,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.accel_f1.ci95_cluster_record.1
+T7,WMFB,Dec_F1,0.6654117647058824,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.decel_f1.estimate
+T7,WMFB,Dec_F1_lo,0.614116221052159,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.decel_f1.ci95_cluster_record.0
+T7,WMFB,Dec_F1_hi,0.7097965275925787,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,train_metrics.decel_f1.ci95_cluster_record.1
+T7,WMFB,MADI,0.06417085329368455,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,official_evaluateaam.median_metrics.MADI
+T7,WMFB,RMSD_bpm,4.41862748962121,P21_CTG_Acidemia/outputs/t07c_wmfb/metrics.json,a75f2a40,official_evaluateaam.median_metrics.RMSD_bpm
+T8,M0,AUROC,0.5795765027322405,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0.auroc
+T8,M0,CI_low,0.45809294871794876,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0.ci95.0
+T8,M0,CI_high,0.6975204971892074,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0.ci95.1
+T8,M0-v2,AUROC,0.5566939890710383,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0-v2.auroc
+T8,M0-v2,CI_low,0.4326921968649147,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0-v2.ci95.0
+T8,M0-v2,CI_high,0.6772510592205159,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M0-v2.ci95.1
+T8,M1,AUROC,0.6007513661202186,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1.auroc
+T8,M1,CI_low,0.4812444713472141,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1.ci95.0
+T8,M1,CI_high,0.7177853468670841,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1.ci95.1
+T8,M1-v2,AUROC,0.5898224043715847,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1-v2.auroc
+T8,M1-v2,CI_low,0.48164190777525584,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1-v2.ci95.0
+T8,M1-v2,CI_high,0.6962993005082285,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M1-v2.ci95.1
+T8,M2,AUROC,0.7150273224043716,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M2.auroc
+T8,M2,CI_low,0.6350797818649326,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M2.ci95.0
+T8,M2,CI_high,0.7906542370955764,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M2.ci95.1
+T8,M3,AUROC,0.7325136612021858,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M3.auroc
+T8,M3,CI_low,0.6510033758515845,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M3.ci95.0
+T8,M3,CI_high,0.806489116067569,P21_CTG_Acidemia/outputs/t07d_featv2/summary.json,e9a40996,comparisons.model_metrics.M3.ci95.1
+T8,SENSITIVITY|M1-v2 - M1,delta_AUROC,-0.0109289617486338,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 0:delta_AUROC
+T8,SENSITIVITY|M1-v2 - M1,ci95_low,-0.0935184290127338,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 0:ci95_low
+T8,SENSITIVITY|M1-v2 - M1,ci95_high,0.0719986651874484,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 0:ci95_high
+T8,SENSITIVITY|M1-v2 - M1,p_raw,0.7708,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 0:p_raw
+T8,SENSITIVITY|M1-v2 - M1,n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 0:n
+T8,SENSITIVITY|M0-v2 - M0,delta_AUROC,-0.0228825136612021,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 1:delta_AUROC
+T8,SENSITIVITY|M0-v2 - M0,ci95_low,-0.0988121529556025,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 1:ci95_low
+T8,SENSITIVITY|M0-v2 - M0,ci95_high,0.0471575039488369,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 1:ci95_high
+T8,SENSITIVITY|M0-v2 - M0,p_raw,0.5262,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 1:p_raw
+T8,SENSITIVITY|M0-v2 - M0,n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 1:n
+T8,H1_SENSITIVITY|M3 - M1-v2,delta_AUROC,0.142691256830601,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 2:delta_AUROC
+T8,H1_SENSITIVITY|M3 - M1-v2,ci95_low,0.0234802046143292,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 2:ci95_low
+T8,H1_SENSITIVITY|M3 - M1-v2,ci95_high,0.2625801463377838,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 2:ci95_high
+T8,H1_SENSITIVITY|M3 - M1-v2,p_raw,0.0196,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 2:p_raw
+T8,H1_SENSITIVITY|M3 - M1-v2,n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 2:n
+T8,H1_SENSITIVITY|M2 - M1-v2,delta_AUROC,0.1252049180327868,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 3:delta_AUROC
+T8,H1_SENSITIVITY|M2 - M1-v2,ci95_low,0.0072325311857764,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 3:ci95_low
+T8,H1_SENSITIVITY|M2 - M1-v2,ci95_high,0.2439283449587825,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 3:ci95_high
+T8,H1_SENSITIVITY|M2 - M1-v2,p_raw,0.0378,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 3:p_raw
+T8,H1_SENSITIVITY|M2 - M1-v2,n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 3:n
+T8,LEAKAGE|L1 - S_seg_v2 (segment),delta_AUROC,0.098226922204987,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 4:delta_AUROC
+T8,LEAKAGE|L1 - S_seg_v2 (segment),ci95_low,0.0608273385488315,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 4:ci95_low
+T8,LEAKAGE|L1 - S_seg_v2 (segment),ci95_high,0.1386088736156885,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 4:ci95_high
+T8,LEAKAGE|L1 - S_seg_v2 (segment),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 4:p_raw
+T8,LEAKAGE|L1 - S_seg_v2 (segment),n,5224.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 4:n
+T8,LEAKAGE|L1 - S_seg_v2 (record),delta_AUROC,0.1382513661202185,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 5:delta_AUROC
+T8,LEAKAGE|L1 - S_seg_v2 (record),ci95_low,0.0890622604096091,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 5:ci95_low
+T8,LEAKAGE|L1 - S_seg_v2 (record),ci95_high,0.1950031918911966,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 5:ci95_high
+T8,LEAKAGE|L1 - S_seg_v2 (record),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 5:p_raw
+T8,LEAKAGE|L1 - S_seg_v2 (record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 5:n
+T8,LEAKAGE|L2 - S_v2 (real record),delta_AUROC,0.262363387978142,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 6:delta_AUROC
+T8,LEAKAGE|L2 - S_v2 (real record),ci95_low,0.1577445400512775,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 6:ci95_low
+T8,LEAKAGE|L2 - S_v2 (real record),ci95_high,0.3689022893072655,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 6:ci95_high
+T8,LEAKAGE|L2 - S_v2 (real record),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 6:p_raw
+T8,LEAKAGE|L2 - S_v2 (real record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 6:n
+T8,LEAKAGE|L3 - S_v2 (real record),delta_AUROC,0.0260928961748633,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 7:delta_AUROC
+T8,LEAKAGE|L3 - S_v2 (real record),ci95_low,-0.046748461926235,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 7:ci95_low
+T8,LEAKAGE|L3 - S_v2 (real record),ci95_high,0.10175970234183,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 7:ci95_high
+T8,LEAKAGE|L3 - S_v2 (real record),p_raw,0.4858,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 7:p_raw
+T8,LEAKAGE|L3 - S_v2 (real record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 7:n
+T8,ORIGINAL_T05_REFERENCE|L1 - S_seg_original (record),delta_AUROC,0.1290300546448087,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 8:delta_AUROC
+T8,ORIGINAL_T05_REFERENCE|L1 - S_seg_original (record),ci95_low,0.0767848877986643,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 8:ci95_low
+T8,ORIGINAL_T05_REFERENCE|L1 - S_seg_original (record),ci95_high,0.1851950484866294,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 8:ci95_high
+T8,ORIGINAL_T05_REFERENCE|L1 - S_seg_original (record),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 8:p_raw
+T8,ORIGINAL_T05_REFERENCE|L1 - S_seg_original (record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 8:n
+T8,ORIGINAL_T05_REFERENCE|L1 - S_original (segment),delta_AUROC,0.0900151826893026,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 9:delta_AUROC
+T8,ORIGINAL_T05_REFERENCE|L1 - S_original (segment),ci95_low,0.0562862666670962,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 9:ci95_low
+T8,ORIGINAL_T05_REFERENCE|L1 - S_original (segment),ci95_high,0.1256466985725314,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 9:ci95_high
+T8,ORIGINAL_T05_REFERENCE|L1 - S_original (segment),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 9:p_raw
+T8,ORIGINAL_T05_REFERENCE|L1 - S_original (segment),n,5224.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 9:n
+T8,ORIGINAL_T05_REFERENCE|L2 - S_original (real record),delta_AUROC,0.2402322404371584,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 10:delta_AUROC
+T8,ORIGINAL_T05_REFERENCE|L2 - S_original (real record),ci95_low,0.1450791891698131,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 10:ci95_low
+T8,ORIGINAL_T05_REFERENCE|L2 - S_original (real record),ci95_high,0.3428839887252047,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 10:ci95_high
+T8,ORIGINAL_T05_REFERENCE|L2 - S_original (real record),p_raw,0.0001,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 10:p_raw
+T8,ORIGINAL_T05_REFERENCE|L2 - S_original (real record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 10:n
+T8,ORIGINAL_T05_REFERENCE|L3 - S_original (real record),delta_AUROC,-0.0020491803278688,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 11:delta_AUROC
+T8,ORIGINAL_T05_REFERENCE|L3 - S_original (real record),ci95_low,-0.0925591673879791,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 11:ci95_low
+T8,ORIGINAL_T05_REFERENCE|L3 - S_original (real record),ci95_high,0.0873718023626876,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 11:ci95_high
+T8,ORIGINAL_T05_REFERENCE|L3 - S_original (real record),p_raw,0.9666,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 11:p_raw
+T8,ORIGINAL_T05_REFERENCE|L3 - S_original (real record),n,518.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 11:n
+T8,EXPLORATORY_E2|E2_v2 le_median M3 - M1-v2,delta_AUROC,0.2613333333333333,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 12:delta_AUROC
+T8,EXPLORATORY_E2|E2_v2 le_median M3 - M1-v2,ci95_low,0.0736780045351474,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 12:ci95_low
+T8,EXPLORATORY_E2|E2_v2 le_median M3 - M1-v2,ci95_high,0.4637686865228803,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 12:ci95_high
+T8,EXPLORATORY_E2|E2_v2 le_median M3 - M1-v2,p_raw,0.0056005600560056,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 12:p_raw
+T8,EXPLORATORY_E2|E2_v2 le_median M3 - M1-v2,n,259.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 12:n
+T8,EXPLORATORY_E2|E2_v2 gt_median M3 - M1-v2,delta_AUROC,0.0800320128051219,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 13:delta_AUROC
+T8,EXPLORATORY_E2|E2_v2 gt_median M3 - M1-v2,ci95_low,-0.0767243894105398,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 13:ci95_low
+T8,EXPLORATORY_E2|E2_v2 gt_median M3 - M1-v2,ci95_high,0.2368880190965274,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 13:ci95_high
+T8,EXPLORATORY_E2|E2_v2 gt_median M3 - M1-v2,p_raw,0.3058,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 13:p_raw
+T8,EXPLORATORY_E2|E2_v2 gt_median M3 - M1-v2,n,259.0,P21_CTG_Acidemia/outputs/t07d_featv2/comparisons.csv,68d3540f,row 13:n
+S-T1,T08/y705,images_total,2831.0,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,images.images_total
+S-T1,T08/y705,S_image_auroc,0.5027585063616394,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_image_auroc.mean
+S-T1,T08/y705,S_image_auroc_lo,0.4474725209258331,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_image_auroc.ci95_cluster_record.0
+S-T1,T08/y705,S_image_auroc_hi,0.5610679746971958,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_image_auroc.ci95_cluster_record.1
+S-T1,T08/y705,L_image_auroc,0.5130917153632559,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_image_auroc.mean
+S-T1,T08/y705,L_image_auroc_lo,0.4882175934186242,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_image_auroc.ci95_cluster_record.0
+S-T1,T08/y705,L_image_auroc_hi,0.5375962837355516,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_image_auroc.ci95_cluster_record.1
+S-T1,T08/y705,S_record_auroc,0.5071038251366121,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_record_auroc.mean
+S-T1,T08/y705,S_record_auroc_lo,0.4484941134191772,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_record_auroc.ci95_cluster_record.0
+S-T1,T08/y705,S_record_auroc_hi,0.5682166583085472,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.S_record_auroc.ci95_cluster_record.1
+S-T1,T08/y705,L_record_auroc,0.5164162112932605,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_record_auroc.mean
+S-T1,T08/y705,L_record_auroc_lo,0.45496094117254066,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_record_auroc.ci95_cluster_record.0
+S-T1,T08/y705,L_record_auroc_hi,0.5788928377460962,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.L_record_auroc.ci95_cluster_record.1
+S-T1,T08/y705,delta_image,0.010333209001616347,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_image.mean
+S-T1,T08/y705,delta_image_lo,-0.049865864715307864,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_image.ci95_cluster_record.0
+S-T1,T08/y705,delta_image_hi,0.06693696289417234,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_image.ci95_cluster_record.1
+S-T1,T08/y705,delta_record,0.009312386156648441,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_record.mean
+S-T1,T08/y705,delta_record_lo,-0.06445302399924785,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_record.ci95_cluster_record.0
+S-T1,T08/y705,delta_record_hi,0.08305735867446384,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y705.aggregate.delta_record.ci95_cluster_record.1
+S-T1,T08/y715,images_total,2831.0,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,images.images_total
+S-T1,T08/y715,S_image_auroc,0.5112535091860719,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_image_auroc.mean
+S-T1,T08/y715,S_image_auroc_lo,0.47443345683697385,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_image_auroc.ci95_cluster_record.0
+S-T1,T08/y715,S_image_auroc_hi,0.5489019710762784,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_image_auroc.ci95_cluster_record.1
+S-T1,T08/y715,L_image_auroc,0.5159490638504055,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_image_auroc.mean
+S-T1,T08/y715,L_image_auroc_lo,0.4972896544986394,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_image_auroc.ci95_cluster_record.0
+S-T1,T08/y715,L_image_auroc_hi,0.5348566185522363,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_image_auroc.ci95_cluster_record.1
+S-T1,T08/y715,S_record_auroc,0.508689615950756,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_record_auroc.mean
+S-T1,T08/y715,S_record_auroc_lo,0.4680665902584635,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_record_auroc.ci95_cluster_record.0
+S-T1,T08/y715,S_record_auroc_hi,0.5500238876130001,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.S_record_auroc.ci95_cluster_record.1
+S-T1,T08/y715,L_record_auroc,0.5172035996253178,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_record_auroc.mean
+S-T1,T08/y715,L_record_auroc_lo,0.4762301660093766,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_record_auroc.ci95_cluster_record.0
+S-T1,T08/y715,L_record_auroc_hi,0.5578330002478866,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.L_record_auroc.ci95_cluster_record.1
+S-T1,T08/y715,delta_image,0.00469555466433369,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_image.mean
+S-T1,T08/y715,delta_image_lo,-0.03663539790166636,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_image.ci95_cluster_record.0
+S-T1,T08/y715,delta_image_hi,0.04484012656450424,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_image.ci95_cluster_record.1
+S-T1,T08/y715,delta_record,0.008513983674561762,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_record.mean
+S-T1,T08/y715,delta_record_lo,-0.047179791255095894,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_record.ci95_cluster_record.0
+S-T1,T08/y715,delta_record_hi,0.0643127060461915,P21_CTG_Acidemia/outputs/t08_deepfhr/summary.json,4b86a0c1,metrics.y715.aggregate.delta_record.ci95_cluster_record.1
+S-T1,T08b/y705,images_total,2831.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,images.images_total
+S-T1,T08b/y705,S_image_auroc,0.5190675121223425,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_image_auroc.mean
+S-T1,T08b/y705,S_image_auroc_lo,0.490414483206662,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_image_auroc.ci95_cluster_record.0
+S-T1,T08b/y705,S_image_auroc_hi,0.5477501433431216,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_image_auroc.ci95_cluster_record.1
+S-T1,T08b/y705,L_image_auroc,0.532049401135563,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_image_auroc.mean
+S-T1,T08b/y705,L_image_auroc_lo,0.5081588271811254,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_image_auroc.ci95_cluster_record.0
+S-T1,T08b/y705,L_image_auroc_hi,0.5554842118240702,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_image_auroc.ci95_cluster_record.1
+S-T1,T08b/y705,S_record_auroc,0.5229356405585913,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_record_auroc.mean
+S-T1,T08b/y705,S_record_auroc_lo,0.49145454743027556,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_record_auroc.ci95_cluster_record.0
+S-T1,T08b/y705,S_record_auroc_hi,0.5537199406634676,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.S_record_auroc.ci95_cluster_record.1
+S-T1,T08b/y705,L_record_auroc,0.5504174256223436,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_record_auroc.mean
+S-T1,T08b/y705,L_record_auroc_lo,0.5087035867321692,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_record_auroc.ci95_cluster_record.0
+S-T1,T08b/y705,L_record_auroc_hi,0.5921940459104076,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.L_record_auroc.ci95_cluster_record.1
+S-T1,T08b/y705,delta_image,0.012981889013220603,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_image.mean
+S-T1,T08b/y705,delta_image_lo,-0.015692155220527082,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_image.ci95_cluster_record.0
+S-T1,T08b/y705,delta_image_hi,0.04073044982519348,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_image.ci95_cluster_record.1
+S-T1,T08b/y705,delta_record,0.027481785063752304,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_record.mean
+S-T1,T08b/y705,delta_record_lo,-0.013927591552264456,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_record.ci95_cluster_record.0
+S-T1,T08b/y705,delta_record_hi,0.06727217710473016,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y705.aggregate.delta_record.ci95_cluster_record.1
+S-T1,T08b,S_img_y705_train_auroc_gt_0_75,33.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,assay_sensitivity.S_img_y705_train_auroc_gt_0_75
+S-T1,T08b,near_constant_probability_count,6.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,assay_sensitivity.near_constant_probability_count
+S-T1,T08b/y715,images_total,2831.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,images.images_total
+S-T1,T08b/y715,S_image_auroc,0.5022089234622804,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_image_auroc.mean
+S-T1,T08b/y715,S_image_auroc_lo,0.47731819498755784,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_image_auroc.ci95_cluster_record.0
+S-T1,T08b/y715,S_image_auroc_hi,0.5267955947874431,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_image_auroc.ci95_cluster_record.1
+S-T1,T08b/y715,L_image_auroc,0.516726485703504,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_image_auroc.mean
+S-T1,T08b/y715,L_image_auroc_lo,0.501095706829909,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_image_auroc.ci95_cluster_record.0
+S-T1,T08b/y715,L_image_auroc_hi,0.5325479611343185,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_image_auroc.ci95_cluster_record.1
+S-T1,T08b/y715,S_record_auroc,0.5036130068245686,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_record_auroc.mean
+S-T1,T08b/y715,S_record_auroc_lo,0.47749395035014713,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_record_auroc.ci95_cluster_record.0
+S-T1,T08b/y715,S_record_auroc_hi,0.5296109152360363,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.S_record_auroc.ci95_cluster_record.1
+S-T1,T08b/y715,L_record_auroc,0.5309586734466302,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_record_auroc.mean
+S-T1,T08b/y715,L_record_auroc_lo,0.49946702171205265,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_record_auroc.ci95_cluster_record.0
+S-T1,T08b/y715,L_record_auroc_hi,0.5627926528633671,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.L_record_auroc.ci95_cluster_record.1
+S-T1,T08b/y715,delta_image,0.014517562241223655,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_image.mean
+S-T1,T08b/y715,delta_image_lo,-0.00977617762114393,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_image.ci95_cluster_record.0
+S-T1,T08b/y715,delta_image_hi,0.03887713466765963,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_image.ci95_cluster_record.1
+S-T1,T08b/y715,delta_record,0.027345666622061653,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_record.mean
+S-T1,T08b/y715,delta_record_lo,-0.006032864645407007,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_record.ci95_cluster_record.0
+S-T1,T08b/y715,delta_record_hi,0.06078984784975983,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,metrics.y715.aggregate.delta_record.ci95_cluster_record.1
+S-T1,T08b,S_img_y705_train_auroc_gt_0_75,33.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,assay_sensitivity.S_img_y705_train_auroc_gt_0_75
+S-T1,T08b,near_constant_probability_count,6.0,P21_CTG_Acidemia/outputs/t08b_deepfhr/summary.json,dbdb02ae,assay_sensitivity.near_constant_probability_count

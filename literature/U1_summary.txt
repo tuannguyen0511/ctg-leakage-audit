@@ -1,0 +1,11 @@
+Main set: 34 studies (26 full text, 8 abstract only)
+unit_of_split (full text, n=26): record 20 (77%); image 3 (12%); segment 2 (8%); unclear 1 (4%)
+oversampling (full text, n=26): none 17 (65%); after_split 4 (15%); unclear 4 (15%); before_split 1 (4%)
+augmentation (full text, n=26): none 19 (73%); before_split 6 (23%); unclear 1 (4%)
+model_selection (full text, n=26): inner_validation 14 (54%); unclear 7 (27%); on_test 3 (12%); separate_validation 2 (8%)
+threshold_selection (full text, n=26): unclear 18 (69%); on_validation 5 (19%); prespecified 3 (12%)
+
+CTU-UHB AUROC by evaluation design (main set, any access):
+  external_test_on_CTU: n=7, median 0.743 [IQR 0.730-0.776], range 0.680-0.840; ids S020,S024,S030,S031,S032,S036,S037
+  within_CTU_record: n=4, median 0.728 [IQR 0.627-0.841], range 0.620-0.888; ids S019,S033,S034,S035
+  within_CTU_segment_or_image: n=4, median 0.979 [IQR 0.963-0.982], range 0.918-0.987; ids S006,S007,S025,S028

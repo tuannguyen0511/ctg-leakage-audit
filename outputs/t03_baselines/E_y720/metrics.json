@@ -1,0 +1,162 @@
+{
+  "M0": {
+    "repeated_oof": [
+      {
+        "repeat": 0,
+        "auroc": 0.6055704836709385,
+        "auprc": 0.4477456936278642
+      },
+      {
+        "repeat": 1,
+        "auroc": 0.595786826512333,
+        "auprc": 0.4373415253063636
+      },
+      {
+        "repeat": 2,
+        "auroc": 0.5889141518533829,
+        "auprc": 0.42461546983903686
+      },
+      {
+        "repeat": 3,
+        "auroc": 0.6002308116301501,
+        "auprc": 0.4486514057299289
+      },
+      {
+        "repeat": 4,
+        "auroc": 0.5885524321344908,
+        "auprc": 0.4237206448222812
+      },
+      {
+        "repeat": 5,
+        "auroc": 0.6090843323687474,
+        "auprc": 0.4543330971512514
+      },
+      {
+        "repeat": 6,
+        "auroc": 0.5968892104175278,
+        "auprc": 0.440004681561594
+      },
+      {
+        "repeat": 7,
+        "auroc": 0.5768396031417942,
+        "auprc": 0.41456842639309255
+      },
+      {
+        "repeat": 8,
+        "auroc": 0.5831094116025906,
+        "auprc": 0.40574843454013
+      },
+      {
+        "repeat": 9,
+        "auroc": 0.604175279040926,
+        "auprc": 0.4581681071489111
+      }
+    ],
+    "auroc_repeat_mean": 0.5949152542372882,
+    "auroc_repeat_sd": 0.01041132854233146,
+    "auprc_repeat_mean": 0.43548974861204537,
+    "auprc_repeat_sd": 0.01762460420939868,
+    "mean_probability_metrics": {
+      "auroc": 0.5970097836571586,
+      "auprc_average_precision": 0.4409356656618921,
+      "brier": 0.24059181078087763,
+      "calibration_intercept_offset_logit": -0.7597576261661174,
+      "calibration_slope": 1.0723428443423222,
+      "sensitivity_at_specificity_0_85": 0.3170731707317073,
+      "prevalence": 0.3166023166023166
+    },
+    "auroc_ci95": [
+      0.5427378713597636,
+      0.652916213043772
+    ],
+    "auprc_ci95": [
+      0.3713507894773257,
+      0.522251047136012
+    ],
+    "bootstrap_seed": 42,
+    "bootstrap_requested": 10000,
+    "bootstrap_valid": 10000,
+    "bootstrap_unit": "record",
+    "prereg_sha256": "df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89"
+  },
+  "M1": {
+    "repeated_oof": [
+      {
+        "repeat": 0,
+        "auroc": 0.5731104450875018,
+        "auprc": 0.4092411538843169
+      },
+      {
+        "repeat": 1,
+        "auroc": 0.5840481603968581,
+        "auprc": 0.40245486454262525
+      },
+      {
+        "repeat": 2,
+        "auroc": 0.5778214138073584,
+        "auprc": 0.3976906786825535
+      },
+      {
+        "repeat": 3,
+        "auroc": 0.6058030177759405,
+        "auprc": 0.41456549020631706
+      },
+      {
+        "repeat": 4,
+        "auroc": 0.5840739975196362,
+        "auprc": 0.41482390141155057
+      },
+      {
+        "repeat": 5,
+        "auroc": 0.599739906297368,
+        "auprc": 0.432117040739317
+      },
+      {
+        "repeat": 6,
+        "auroc": 0.6011695604244178,
+        "auprc": 0.434293841973441
+      },
+      {
+        "repeat": 7,
+        "auroc": 0.5923763263056359,
+        "auprc": 0.41819941910512093
+      },
+      {
+        "repeat": 8,
+        "auroc": 0.5813869367507234,
+        "auprc": 0.39761726499615946
+      },
+      {
+        "repeat": 9,
+        "auroc": 0.5855467135179826,
+        "auprc": 0.4018435152075484
+      }
+    ],
+    "auroc_repeat_mean": 0.5885076477883422,
+    "auroc_repeat_sd": 0.010805706038617012,
+    "auprc_repeat_mean": 0.412284717074895,
+    "auprc_repeat_sd": 0.013196732782625146,
+    "mean_probability_metrics": {
+      "auroc": 0.6024355794405402,
+      "auprc_average_precision": 0.42225068342963573,
+      "brier": 0.23292113975271045,
+      "calibration_intercept_offset_logit": -0.6447089559425633,
+      "calibration_slope": 0.5860327246058576,
+      "sensitivity_at_specificity_0_85": 0.24390243902439024,
+      "prevalence": 0.3166023166023166
+    },
+    "auroc_ci95": [
+      0.5485513953531934,
+      0.6567653058532558
+    ],
+    "auprc_ci95": [
+      0.3555823747692575,
+      0.5034066730136131
+    ],
+    "bootstrap_seed": 42,
+    "bootstrap_requested": 10000,
+    "bootstrap_valid": 10000,
+    "bootstrap_unit": "record",
+    "prereg_sha256": "df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89"
+  }
+}

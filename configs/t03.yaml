@@ -1,0 +1,36 @@
+run_name: t03_baselines
+prereg_version: '1.1'
+prereg_sha256: df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89
+input_dir: D:/Tuan/AI_training/data_proc/ctu-uhb-ctgdb/1.0.0
+output_root: D:/Tuan/AI_training/P21_CTG_Acidemia/outputs
+configs:
+  A_primary: {features: W30, split: split.csv, target: y705}
+  B_noexcl: {features: W30, split: split_noexcl.csv, target: y705}
+  C_w60: {features: W60, split: split.csv, target: y705}
+  D_y715: {features: W30, split: split.csv, target: y715}
+  E_y720: {features: W30, split: split.csv, target: y720}
+feature_columns:
+  - baseline
+  - stv_ms
+  - ltv
+  - pct_min_var
+  - n_accel
+  - n_decel
+  - decel_area
+  - n_prolonged_decel
+  - n_contractions
+  - lf_power
+  - hf_power
+m0_c: [0.01, 0.1, 1.0, 10.0]
+m1_learning_rate: [0.03, 0.1]
+m1_max_depth: [2, 3]
+m1_min_samples_leaf: [10, 20, 40]
+cv_repeats: 10
+cv_outer_folds: 5
+cv_inner_folds: 5
+bootstrap_resamples: 10000
+bootstrap_seed: 42
+negative_control_seed: 42
+negative_control_auroc_bounds: [0.40, 0.60]
+specificity: 0.85
+n_jobs: 1

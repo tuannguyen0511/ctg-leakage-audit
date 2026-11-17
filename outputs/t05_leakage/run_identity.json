@@ -1,0 +1,36 @@
+{
+  "code_shas": {
+    "../common/bootstrap.py": "54136f611c4e0a6cac3fd8e44a075399d23636d5527954da7d2572dead6d2096",
+    "../common/io_wfdb.py": "9e020a5e0114d9e11d286c3b8c9eb31195010d7f432d572c8d58dcf857888fec",
+    "../common/metrics.py": "8d380a01c0cb859abfe2b17ed34b1b9720e1a4070651975cbf01dcf0faa8561e",
+    "src/ctg_features.py": "d81bd7924184a4479171fd83f1fd2ce1875843aba2987f52f70460aee02fabf6",
+    "src/t03_baselines.py": "b87eac8e4a3d124d8fc2fe1e53462b81c899a467579258290c67da101f85b8d3",
+    "src/t04_dl.py": "746a42380d4f3479ea9141bed41028c769f932077ba85dbbbcb2ea9e47839781"
+  },
+  "config_sha": "c7d9bde7b8b02dda78c5d5575b7791a14c3f4df128181029bc8b5709fea4d092",
+  "prereg_sha": "40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb",
+  "script_sha": "35232edc2ad27a41c0ddd39b89508ecd720f9135faac21fe0b7a3240183890e6",
+  "source_sha": {
+    "dl_w30_1hz.npz": "d7e88da5ffaec0bb99cf7822a56465869c527f18e56a5ab0ae7d1c599f447663",
+    "features_w30.parquet": "3ba230a70677e28fd95ad9e361ad9dd919abc8a90bc531bdd2b944faf4fc8445",
+    "labels.parquet": "bcbeb03b2663d668a7c91e24b453b333de292adebbb50efa5e9bbaecd87c3a6e",
+    "split.csv": "b0d0602e3bc7f028eb14a89b44b3aa6c89a6c12df64da6ac09155d02cdbbe5ce",
+    "t02_yaml": "2c0b3d2e97011db6cbc5fe1fdcc8c6d93ea8ff77ecf2385ab244a512f6b4694d",
+    "t03_oof": "5f489081686ae3d6e497efeda755b988e59bb8d99214007ac122575749c3a472",
+    "t04_oof": "62a0da0e94b12ecce6f97ac12fdf82f96ea68e78391e7017cd8dbd99ec27fa09"
+  },
+  "t03_features": [
+    "baseline",
+    "stv_ms",
+    "ltv",
+    "pct_min_var",
+    "n_accel",
+    "n_decel",
+    "decel_area",
+    "n_prolonged_decel",
+    "n_contractions",
+    "lf_power",
+    "hf_power"
+  ],
+  "t04_frozen_sha_prefix": "62a0da0e"
+}

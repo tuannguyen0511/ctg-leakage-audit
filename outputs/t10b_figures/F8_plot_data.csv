@@ -1,0 +1,16 @@
+study_id,first_author,year,evaluation_design,ctu_auroc
+S028,Rao,2024,within_CTU_segment_or_image,0.918
+S007,Zhao/Deng,2019,within_CTU_segment_or_image,0.978
+S025,Deng,2023,within_CTU_segment_or_image,0.98
+S006,Zhao,2019,within_CTU_segment_or_image,0.987
+S033,Chiou,2025,within_CTU_record,0.62
+S019,O'Sullivan,2021,within_CTU_record,0.63
+S034,Fridman/Ben Shachar,2026,within_CTU_record,0.826
+S035,Tjondronegoro,2026,within_CTU_record,0.888
+S020,Ogasawara,2021,external_test_on_CTU,0.68
+S030,McCoy,2024,external_test_on_CTU,0.72
+S031,Ben M'Barek,2025,external_test_on_CTU,0.74
+S024,Ben M'Barek,2023,external_test_on_CTU,0.743
+S037,Vargas-Calixto,2026,external_test_on_CTU,0.743
+S032,Mendis,2025,external_test_on_CTU,0.81
+S036,Mendis,2026,external_test_on_CTU,0.84

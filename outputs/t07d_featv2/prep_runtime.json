@@ -1,0 +1,33 @@
+{
+  "features_sha256": "d8653b6e6bbf055427993d36a54ad22544a34084b8a2d853697554b4173e4f3c",
+  "missing_features_segments": {
+    "baseline_v2": 0,
+    "decel_area_v2": 0,
+    "hf_power": 0,
+    "lf_power": 0,
+    "ltv": 0,
+    "n_accel_v2": 0,
+    "n_contractions": 203,
+    "n_decel_v2": 0,
+    "n_prolonged_decel_v2": 0,
+    "pct_min_var": 0,
+    "stv_ms": 0
+  },
+  "missing_features_w30": {
+    "baseline_v2": 0,
+    "decel_area_v2": 0,
+    "hf_power": 0,
+    "lf_power": 0,
+    "ltv": 0,
+    "n_accel_v2": 0,
+    "n_contractions": 63,
+    "n_decel_v2": 0,
+    "n_prolonged_decel_v2": 0,
+    "pct_min_var": 0,
+    "stv_ms": 1
+  },
+  "rows_segments": 5224,
+  "rows_w30": 552,
+  "seconds": 2.3143916000008176,
+  "segments_sha256": "3bac08c7628ad199272d226e3362893426f6c526d49addb937d28442f39fdb9a"
+}

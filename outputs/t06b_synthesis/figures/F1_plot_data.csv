@@ -1,0 +1,12 @@
+stage,label,x,y,width,height
+0,"CTU-UHB recordings
+552",0.08,0.81,0.84,0.13
+1,"Excluded by T02 QC
+34 (10 positive; 24 negative)",0.08,0.64,0.84,0.13
+2,"Eligible cohort
+518 (30 positive)",0.08,0.47,0.84,0.13
+3,"Strict evaluation
+10 × 5 × 5 nested CV",0.05,0.19,0.43,0.16
+4,"T05 leakage audit
+5,224 retained
+499 rejected segments",0.52,0.19,0.43,0.16

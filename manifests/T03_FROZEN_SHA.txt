@@ -1,0 +1,11 @@
+# T03 lock — Director 2026-11-12. Đối chiếu: khớp SHA trong logs/t03_baselines_20261110_171828.log.
+b3a9c8c8 P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json
+db38ae9f P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json
+7211b4d9 P21_CTG_Acidemia/outputs/t03_baselines/C_w60/metrics.json
+83ab8b18 P21_CTG_Acidemia/outputs/t03_baselines/D_y715/metrics.json
+7cba7697 P21_CTG_Acidemia/outputs/t03_baselines/E_y720/metrics.json
+5f489081 P21_CTG_Acidemia/outputs/t03_baselines/A_primary/oof.parquet
+2308f217 P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/oof.parquet
+3c42fc94 P21_CTG_Acidemia/outputs/t03_baselines/C_w60/oof.parquet
+67d1decd P21_CTG_Acidemia/outputs/t03_baselines/D_y715/oof.parquet
+7a2856b7 P21_CTG_Acidemia/outputs/t03_baselines/E_y720/oof.parquet

@@ -1,0 +1,38 @@
+{
+  "feature_indices": [
+    6,
+    5,
+    0,
+    7,
+    8
+  ],
+  "features": [
+    "decel_area",
+    "n_decel",
+    "baseline",
+    "n_prolonged_decel",
+    "n_contractions"
+  ],
+  "global_cv_auroc": 0.6728767795778106,
+  "input_features_sha": "3ba230a70677e28fd95ad9e361ad9dd919abc8a90bc531bdd2b944faf4fc8445",
+  "intentional_leakage": "feature and parameter selection include outer-test labels",
+  "params": {
+    "learning_rate": 0.03,
+    "max_depth": 2,
+    "min_samples_leaf": 40
+  },
+  "selection_seed": 42,
+  "univariate_auc": {
+    "baseline": 0.5828551912568306,
+    "decel_area": 0.6681010928961748,
+    "hf_power": 0.48128415300546445,
+    "lf_power": 0.5049863387978142,
+    "ltv": 0.5352117486338798,
+    "n_accel": 0.5402322404371585,
+    "n_contractions": 0.5406420765027322,
+    "n_decel": 0.6386270491803279,
+    "n_prolonged_decel": 0.5576161202185792,
+    "pct_min_var": 0.5024931693989071,
+    "stv_ms": 0.51974043715847
+  }
+}

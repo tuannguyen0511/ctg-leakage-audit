@@ -1,0 +1,10 @@
+design,repeat,quantity,value
+duplication,0,pos_test_rows_with_copy_in_train,1.0
+SMOTE,0,median_NN_dist_pos_test_to_train_pos,0.2204650158920505
+strict,0,median_NN_dist_pos_test_to_train_pos,2.514099333539547
+duplication,1,pos_test_rows_with_copy_in_train,1.0
+SMOTE,1,median_NN_dist_pos_test_to_train_pos,0.21314898569163876
+strict,1,median_NN_dist_pos_test_to_train_pos,2.4935823949207574
+duplication,2,pos_test_rows_with_copy_in_train,1.0
+SMOTE,2,median_NN_dist_pos_test_to_train_pos,0.21183215195355293
+strict,2,median_NN_dist_pos_test_to_train_pos,2.514099333539547

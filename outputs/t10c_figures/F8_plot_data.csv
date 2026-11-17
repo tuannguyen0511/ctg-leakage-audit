@@ -1,0 +1,16 @@
+id,design,auroc,threshold_group
+S028,within_CTU_segment_or_image,0.918,pH 7.15
+S007,within_CTU_segment_or_image,0.978,pH 7.15
+S025,within_CTU_segment_or_image,0.98,pH ≤ 7.05
+S006,within_CTU_segment_or_image,0.987,pH 7.15
+S033,within_CTU_record,0.62,pH 7.20 or composite
+S019,within_CTU_record,0.63,pH ≤ 7.05
+S034,within_CTU_record,0.826,pH 7.15
+S035,within_CTU_record,0.888,pH ≤ 7.05
+S020,external_test_on_CTU,0.68,pH 7.20 or composite
+S030,external_test_on_CTU,0.72,pH ≤ 7.05
+S031,external_test_on_CTU,0.74,pH ≤ 7.05
+S024,external_test_on_CTU,0.743,pH ≤ 7.05
+S037,external_test_on_CTU,0.743,pH 7.20 or composite
+S032,external_test_on_CTU,0.81,pH ≤ 7.05
+S036,external_test_on_CTU,0.84,pH ≤ 7.05

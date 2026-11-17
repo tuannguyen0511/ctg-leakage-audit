@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="198.18pt" height="257.904pt" viewBox="0 0 198.18 257.904" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-17T08:46:47.627740</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 257.904 
+L 198.18 257.904 
+L 198.18 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 50.265 121.401882 
+L 50.265 131.026588 
+" clip-path="url(#pd838fd7f1b)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 44.406 131.026588 
+L 149.868 131.026588 
+" clip-path="url(#pd838fd7f1b)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8"/>
+   </g>
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 11.842734 37.266141 
+L 88.687266 37.266141 
+L 88.687266 8.117859 
+L 11.842734 8.117859 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(14.842734 16.553016)">CTU-UHB recordings</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(17.952305 24.631453)">n = 552 (pH &lt; 7.05:</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(44.845664 32.709891)">40)</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 113.276859 33.226922 
+L 190.365141 33.226922 
+L 190.365141 12.157078 
+L 113.276859 12.157078 
+z
+" style="fill: #f2f2f2; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(119.309672 20.592234)">Sensitivity analysis:</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(116.276859 28.670672)">no exclusion, n = 552</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 107.919492 96.888267 
+L 187.910508 96.888267 
+L 187.910508 43.504674 
+L 107.919492 43.504674 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(110.919492 51.93983)">Excluded: &gt; 50% FHR</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(119.154258 60.018267)">missing in last 30</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(124.36207 68.096705)">min of stage 1</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(111.752109 76.175142)">n = 34 (acidaemic 10)</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(117.688242 84.25358)">31 without second</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(138.742148 92.332017)">stage</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_5">
+     <path d="M 14.952305 121.024023 
+L 85.577695 121.024023 
+L 85.577695 91.875742 
+L 14.952305 91.875742 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(25.885898 100.310898)">Primary cohort</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(17.952305 108.389335)">n = 518 (pH &lt; 7.05:</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(44.845664 116.467773)">30)</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_6">
+     <path d="M 8.393109 182.568653 
+L 80.418891 182.568653 
+L 80.418891 145.341935 
+L 8.393109 145.341935 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(17.939203 153.777091)">Strict protocol S</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(19.813031 161.855528)">recording-level</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(11.393109 169.933966)">nested CV, 10 × 5 ×</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(25.022016 178.012403)">5, 4 models</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_7">
+     <path d="M 113.512922 186.607872 
+L 186.223078 186.607872 
+L 186.223078 141.302716 
+L 113.512922 141.302716 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(128.817609 149.737872)">Single-factor</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(116.512922 157.81631)">perturbations L1–L4</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(118.571906 165.894747)">GBDT and CNN (+</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(125.485383 173.973185)">ResNet for L1)</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(125.269758 182.051622)">repetitions 0–2</text>
+   </g>
+   <g id="text_7">
+    <g id="patch_8">
+     <path d="M 9.505219 250.075006 
+L 79.306781 250.075006 
+L 79.306781 212.848288 
+L 9.505219 212.848288 
+z
+" style="fill: #f2f2f2; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(14.181586 221.283444)">Label-permutation</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(31.276313 229.361881)">controls</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(12.505219 237.440319)">S ×100; L1 ×10; L2</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(38.045063 245.518756)">×20</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_9">
+     <path d="M 110.81175 254.114225 
+L 188.92425 254.114225 
+L 188.92425 208.809069 
+L 110.81175 208.809069 
+z
+" style="fill: #f2f2f2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(113.81175 217.244225)">L1: 10-min segments,</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(117.141633 225.322663)">50% overlap, whole</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(133.612922 233.4011)">first stage</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(117.552961 241.479538)">5,224 retained; 499</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans'" transform="translate(136.107258 249.557975)">dropped</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 50.265 37.644 
+Q 50.265 64.570941 50.265 90.603455 
+" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 51.665 87.803455 
+L 50.265 90.603455 
+L 48.865 87.803455 
+z
+" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 50.265 70.196471 
+Q 79.1175 70.196471 107.075573 70.196471 
+" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 104.275573 68.796471 
+L 107.075573 70.196471 
+L 104.275573 71.596471 
+z
+" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 88.5 22.692 
+Q 100.953 22.692 112.511573 22.692 
+" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 109.711573 21.292 
+L 112.511573 22.692 
+L 109.711573 24.092 
+z
+" style="fill: #4d4d4d; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 44.406 131.026588 
+Q 44.406 137.926941 44.406 143.932867 
+" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 45.806 141.132867 
+L 44.406 143.932867 
+L 43.006 141.132867 
+z
+" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 149.868 131.026588 
+Q 149.868 135.838941 149.868 139.756867 
+" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 151.268 136.956867 
+L 149.868 139.756867 
+L 148.468 136.956867 
+z
+" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 149.868 187.259294 
+Q 149.868 197.708471 149.868 207.26322 
+" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 151.268 204.46322 
+L 149.868 207.26322 
+L 148.468 204.46322 
+z
+" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 44.406 183.083294 
+Q 44.406 197.708471 44.406 211.43922 
+" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 45.806 208.63922 
+L 44.406 211.43922 
+L 43.006 208.63922 
+z
+" style="fill: #4d4d4d; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd838fd7f1b">
+   <rect x="1.44" y="1.44" width="195.3" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="252pt" height="360pt" viewBox="0 0 252 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-12T13:33:31.703053</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 252 360 
+L 252 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.124 95.868 
+L 211.176 95.868 
+L 211.176 59.832 
+L 47.124 59.832 
+z
+" clip-path="url(#p3028e19574)" style="fill: #eef5fa; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 47.124 142.992 
+L 211.176 142.992 
+L 211.176 106.956 
+L 47.124 106.956 
+z
+" clip-path="url(#p3028e19574)" style="fill: #eef5fa; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 47.124 190.116 
+L 211.176 190.116 
+L 211.176 154.08 
+L 47.124 154.08 
+z
+" clip-path="url(#p3028e19574)" style="fill: #eef5fa; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 41.265 267.732 
+L 125.244 267.732 
+L 125.244 223.38 
+L 41.265 223.38 
+z
+" clip-path="url(#p3028e19574)" style="fill: #eef5fa; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 133.056 267.732 
+L 217.035 267.732 
+L 217.035 223.38 
+L 133.056 223.38 
+z
+" clip-path="url(#p3028e19574)" style="fill: #eef5fa; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 129.15 190.116 
+L 129.15 209.52 
+" clip-path="url(#p3028e19574)" style="fill: none; stroke: #555555; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 83.2545 209.52 
+L 175.0455 209.52 
+" clip-path="url(#p3028e19574)" style="fill: none; stroke: #555555; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(96.089219 75.852129)">CTU-UHB recordings</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(123.311016 83.470918)">552</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(96.922109 122.978043)">Excluded by T02 QC</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(85.18125 130.596832)">34 (10 positive; 24 negative)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(107.166719 170.100061)">Eligible cohort</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(103.27625 177.71885)">518 (30 positive)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(58.354188 243.558197)">Strict evaluation</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(50.176766 251.17685)">10 × 5 × 5 nested CV</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(147.222141 239.748734)">T05 leakage audit</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(152.668469 247.367523)">5,224 retained</text>
+    <text style="font-size: 7px; font-family: 'Arial'" transform="translate(139.638078 254.986176)">499 rejected segments</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 129.15 97.868496 
+Q 129.15 101.411646 129.15 103.836763 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 130.75 100.636763 
+L 129.15 103.836763 
+L 127.55 100.636763 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 129.15 144.992496 
+Q 129.15 148.535646 129.15 150.960763 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 130.75 147.760763 
+L 129.15 150.960763 
+L 127.55 147.760763 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 83.2545 211.519819 
+Q 83.2545 216.449496 83.2545 220.26114 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 84.8545 217.06114 
+L 83.2545 220.26114 
+L 81.6545 217.06114 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 175.0455 211.519819 
+Q 175.0455 216.449496 175.0455 220.26114 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 176.6455 217.06114 
+L 175.0455 220.26114 
+L 173.4455 217.06114 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3028e19574">
+   <rect x="31.5" y="43.2" width="195.3" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

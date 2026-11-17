@@ -1,0 +1,11 @@
+task: P21-T07c
+prereg_v1_6_sha256: df06f9dd107ffb5b4132af3ade17aa9fec6c71d3f0b8154803c8ddfc3c59a557
+root: D:/Tuan/AI_training
+fhrma_repo: D:/Tuan/AI_training/data_raw/fhrma
+ctu_raw: D:/Tuan/AI_training/data_raw/ctu-uhb-ctgdb/1.0.0
+ctu_proc: D:/Tuan/AI_training/data_proc/ctu-uhb-ctgdb/1.0.0
+out: D:/Tuan/AI_training/P21_CTG_Acidemia/outputs/t07c_wmfb
+expected_record_count: 552
+fs_hz: 4
+boot_replicates: 2000
+boot_seed: 2026

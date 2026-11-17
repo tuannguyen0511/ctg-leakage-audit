@@ -1,0 +1,7 @@
+item,n,agree_pct,kappa,n_unclear_c1,n_unclear_c2
+unit_of_split,34,76.5,0.56,9,5
+oversampling,34,44.1,0.189,12,29
+model_selection,34,29.4,0.16,15,7
+threshold_selection,34,76.5,0.0,26,34
+signal_quality_exclusion,34,44.1,0.127,11,26
+external_validation,34,85.3,0.726,1,4

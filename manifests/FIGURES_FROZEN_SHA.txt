@@ -1,0 +1,11 @@
+# Hình cuối cùng (đã duyệt bởi Director 2026-11-12). F1 từ t06d_figures_F1fix; F2–F5 từ t06d_figures. F4 = phụ lục (DCA).
+a0fc8f7e outputs/t06d_figures_F1fix/F1.png
+1ab87a0e outputs/t06d_figures_F1fix/F1.svg
+4238cb8d outputs/t06d_figures/F2.png
+ba5b527d outputs/t06d_figures/F2.svg
+6919b974 outputs/t06d_figures/F3.png
+2011d3d4 outputs/t06d_figures/F3.svg
+8014fbd8 outputs/t06d_figures/F4.png
+2ae4f0bd outputs/t06d_figures/F4.svg
+61c57d7b outputs/t06d_figures/F5.png
+4cf71104 outputs/t06d_figures/F5.svg

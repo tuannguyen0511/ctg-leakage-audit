@@ -1,0 +1,33 @@
+run_name: t02_inputs
+prereg_sha256: df1d7b0c3b4b0a27bc267ce6b97b05808f66e88e8530e989efa337071b079c89
+raw_dir: D:/Tuan/AI_training/data_raw/ctu-uhb-ctgdb/1.0.0
+derived_dir: D:/Tuan/AI_training/data_proc/ctu-uhb-ctgdb/1.0.0
+output_root: D:/Tuan/AI_training/P21_CTG_Acidemia/outputs
+windows_minutes: [30, 60]
+fs_hz: 4
+dl_fs_hz: 1
+fhr_min_bpm: 50
+fhr_max_bpm: 200
+fhr_max_step_bpm: 25
+exclusion_fhr_nan_pct_w30: 50
+baseline_rolling_minutes: 10
+baseline_reject_bpm: 15
+stv_epoch_seconds: 3.75
+stv_min_valid_fraction: 0.5
+minute_low_variability_bpm: 5
+accel_threshold_bpm: 15
+decel_threshold_bpm: 15
+event_min_seconds: 15
+prolonged_decel_seconds: 120
+contraction_smoothing_seconds: 30
+contraction_height_above_median: 15
+contraction_min_distance_seconds: 60
+uc_nan_limit_pct: 50
+welch_nperseg: 1024
+welch_noverlap: 512
+welch_lf_hz: [0.04, 0.15]
+welch_hf_hz: [0.15, 1.0]
+cv_repeats: 10
+cv_outer_folds: 5
+cv_inner_folds: 5
+cv_seed: 2026

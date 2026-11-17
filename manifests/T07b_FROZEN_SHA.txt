@@ -1,0 +1,3 @@
+# T07b lock — Director 2026-11-13
+fc6531ea P21_CTG_Acidemia/outputs/t07_fhrma/metrics.json
+6a9e471e P21_CTG_Acidemia/outputs/t07_fhrma/per_record.csv

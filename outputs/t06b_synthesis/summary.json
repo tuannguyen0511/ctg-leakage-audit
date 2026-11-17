@@ -1,0 +1,88 @@
+{
+  "task": "P21-T06b",
+  "status": "PASS",
+  "prereg_sha256": "40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb",
+  "locked_inputs": {
+    "data_proc/ctu-uhb-ctgdb/1.0.0/clinical.parquet": "bcabb2f0",
+    "data_proc/ctu-uhb-ctgdb/1.0.0/features_w30.parquet": "3ba230a7",
+    "data_proc/ctu-uhb-ctgdb/1.0.0/labels.parquet": "bcbeb03b",
+    "data_proc/ctu-uhb-ctgdb/1.0.0/signal_qc.parquet": "64772888",
+    "P21_CTG_Acidemia/outputs/t03_baselines/A_primary/metrics.json": "b3a9c8c8",
+    "P21_CTG_Acidemia/outputs/t03_baselines/A_primary/oof.parquet": "5f489081",
+    "P21_CTG_Acidemia/outputs/t03_baselines/B_noexcl/metrics.json": "db38ae9f",
+    "P21_CTG_Acidemia/outputs/t03_baselines/C_w60/metrics.json": "7211b4d9",
+    "P21_CTG_Acidemia/outputs/t03_baselines/D_y715/metrics.json": "83ab8b18",
+    "P21_CTG_Acidemia/outputs/t03_baselines/E_y720/metrics.json": "7cba7697",
+    "P21_CTG_Acidemia/outputs/t04_dl/A_primary/metrics.json": "af48a9c9",
+    "P21_CTG_Acidemia/outputs/t04_dl/A_primary/oof.parquet": "62a0da0e",
+    "P21_CTG_Acidemia/outputs/t04_dl/B_noexcl/metrics.json": "63bbbdd1",
+    "P21_CTG_Acidemia/outputs/t04_dl/C_w60/metrics.json": "38303c08",
+    "P21_CTG_Acidemia/outputs/t04_dl/D_y715/metrics.json": "f9e24f84",
+    "P21_CTG_Acidemia/outputs/t04_dl/E_y720/metrics.json": "2a823c75",
+    "P21_CTG_Acidemia/outputs/t05_leakage/h2_tests.csv": "f7dba83f",
+    "P21_CTG_Acidemia/outputs/t05_leakage/segments_meta.parquet": "c3e50ee3",
+    "P21_CTG_Acidemia/outputs/t06a_stats/exploratory.csv": "324834c6",
+    "P21_CTG_Acidemia/outputs/t06a_stats/h1_tests.csv": "81a8925b",
+    "P21_CTG_Acidemia/outputs/t06a_stats/sensitivity.csv": "82655e36"
+  },
+  "manifests": [
+    "P21_CTG_Acidemia/reports/T02_FROZEN_SHA.txt",
+    "P21_CTG_Acidemia/reports/T03_FROZEN_SHA.txt",
+    "P21_CTG_Acidemia/reports/T04_FROZEN_SHA.txt",
+    "P21_CTG_Acidemia/reports/T05_FROZEN_SHA.txt",
+    "P21_CTG_Acidemia/reports/T06a_FROZEN_SHA.txt"
+  ],
+  "source_numeric_values_checked": 457,
+  "numbers_trace_rows": 5077,
+  "figures_pixels": {
+    "F1": [
+      2100,
+      3000
+    ],
+    "F2": [
+      4200,
+      3420
+    ],
+    "F3": [
+      4200,
+      1920
+    ],
+    "F4": [
+      2100,
+      1680
+    ],
+    "F5": [
+      2100,
+      1680
+    ]
+  },
+  "output_sha8": {
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F1.png": "3ecf91db",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F1.svg": "84636152",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F1_plot_data.csv": "b3d419e0",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F2.png": "3c33a700",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F2.svg": "29e11c53",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F2_plot_data.csv": "f1885f1d",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F3.png": "706529ac",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F3.svg": "81c0d4a0",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F3_plot_data.csv": "ffe9b973",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F4.png": "fe0fd59f",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F4.svg": "56a4bf4f",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F4_plot_data.csv": "3bfb1598",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F5.png": "9946b230",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F5.svg": "575c3121",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/figures/F5_plot_data.csv": "07aded40",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T1_cohort.csv": "79e1ed52",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T1_cohort.tex": "501333b6",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T2_H1_models.csv": "9c0ac4b7",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T2_H1_models.tex": "47a89dc4",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T3_H1_comparisons.csv": "b6316af0",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T3_H1_comparisons.tex": "45577231",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T4_H2_leakage.csv": "40daf028",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T4_H2_leakage.tex": "0c8a42b4",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T5_exploratory.csv": "cecdd847",
+    "P21_CTG_Acidemia/outputs/t06b_synthesis/tables/T5_exploratory.tex": "9c8a3763"
+  },
+  "script_sha8": "341caa20",
+  "runtime_s": 7.375352900009602
+}

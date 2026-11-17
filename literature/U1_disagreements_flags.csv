@@ -1,0 +1,15 @@
+id,author,year,flag,coder1,coder2
+S007,Zhao/Deng,2019,resampling_before_split,1,0
+S025,Deng,2023,resampling_before_split,1,0
+S033,Chiou,2025,resampling_before_split,1,0
+S005,Zhao,2018,selection_on_test,0,1
+S008,Comert/Kocamaz,2017,selection_on_test,0,1
+S009,Comert/Kocamaz,2017,selection_on_test,0,1
+S010,Comert/Kocamaz,2018,selection_on_test,0,1
+S011,Comert/Kocamaz,2018,selection_on_test,0,1
+S012,Comert/Zhao,2018,selection_on_test,0,1
+S015,Fuentealba/Illanes/Ortmeier,2019,selection_on_test,0,1
+S021,Xiao,2022,selection_on_test,0,1
+S025,Deng,2023,selection_on_test,0,1
+S028,Rao,2024,selection_on_test,0,1
+S029,Alqahtani/Alotibi/Alotaiby,2025,selection_on_test,0,1

@@ -1,0 +1,23 @@
+=== REPORT P21-T06a ===
+status: PASS; PC-A CPU; runtime_s=2296.33; GPU=unused
+PREREG_v1.3_SHA256=40573556ecf4664c430430eb99eaaa20d1d0958aa32647cd30b7144434d048eb
+acceptance: T04_sha5=PASS; pytest=PASS; A=518; B=552; p_and_CI_no_NaN=PASS
+PART 1 H1 CONFIRMATORY A_primary; paired bootstrap 10000/seed42; Holm family 2
+M1-M0 (descriptive; untested): delta_AUROC=+0.0212
+H1: comparison | delta[CI95] | p_raw,p_Holm | Holm/seedspread/sign | TOST | DL_beats_M1
+M2-M1 | +0.1143[-0.0072,+0.2382] | 0.0668,0.0668 | FAIL/PASS/PASS | inconclusive | NO
+  descriptive delta_AUPRC=-0.0211[-0.1458,+0.0767]; delta_Brier=+0.1087[+0.0932,+0.1240]; seed_spread=0.0470; seed_deltas=[0.128483606557377, 0.08148907103825132, 0.11468579234972676]
+M3-M1 | +0.1318[+0.0146,+0.2513] | 0.0258,0.0516 | FAIL/PASS/PASS | inconclusive | NO
+  descriptive delta_AUPRC=-0.0234[-0.1450,+0.0414]; delta_Brier=+0.1039[+0.0869,+0.1210]; seed_spread=0.0024; seed_deltas=[0.128551912568306, 0.12916666666666665, 0.12677595628415295]
+SENSITIVITY: raw p, no Holm
+B_noexcl: M2-M1=+0.0296[-0.0509,+0.1123] p_raw=0.4758; M3-M1=+0.0342[-0.0432,+0.1150] p_raw=0.4034
+C_w60: M2-M1=+0.0243[-0.0905,+0.1420] p_raw=0.688; M3-M1=+0.0381[-0.0731,+0.1503] p_raw=0.4954
+D_y715: M2-M1=+0.0009[-0.0648,+0.0648] p_raw=0.9932; M3-M1=+0.0012[-0.0638,+0.0649] p_raw=0.9918
+E_y720: M2-M1=+0.0238[-0.0314,+0.0780] p_raw=0.416; M3-M1=+0.0298[-0.0241,+0.0830] p_raw=0.2984
+PART 2 EXPLORATORY, POST HOC (E1-E4); not confirmatory
+E1: A_primary/fhr_nan_pct_w30 n=518 positive=30 AUROC=+0.5939[+0.4928,+0.6901]; B_noexcl/fhr_nan_pct_w30 n=552 positive=40 AUROC=+0.6685[+0.5755,+0.7573]
+E2: A_primary/le_median_M1 n=259 positive=<10 AUROC=+0.4720[+0.2619,+0.6990]; A_primary/le_median_M3 n=259 positive=<10 AUROC=+0.7484[+0.6107,+0.8687]; A_primary/le_median_M3-M1 n=259 positive=<10 delta_AUROC=+0.2764[+0.0949,+0.4544]; A_primary/gt_median_M1 n=259 positive=21 AUROC=+0.6613[+0.5165,+0.7940]; A_primary/gt_median_M3 n=259 positive=21 AUROC=+0.6989[+0.5913,+0.7979]; A_primary/gt_median_M3-M1 n=259 positive=21 delta_AUROC=+0.0376[-0.1121,+0.2018]
+E3: A_primary/M1_plus_fhr_nan_pct_w30 n=518 positive=30 AUROC=+0.6081[+0.4888,+0.7244]; A_primary/M1_plus_missingness-M1 n=518 positive=30 delta_AUROC=+0.0074[-0.0488,+0.0585]; A_primary/M1_plus_missingness-M3 n=518 positive=30 delta_AUROC=-0.1244[-0.2331,-0.0149]
+E4: A_primary/all_M1 n=518 positive=30 Spearman_rho=-0.0069[-0.0949,+0.0821]; A_primary/all_M2 n=518 positive=30 Spearman_rho=+0.2990[+0.2138,+0.3778]; A_primary/all_M3 n=518 positive=30 Spearman_rho=+0.2932[+0.2086,+0.3721]; A_primary/y705_eq_0_M1 n=488 positive=<10 Spearman_rho=-0.0298[-0.1224,+0.0613]; A_primary/y705_eq_0_M2 n=488 positive=<10 Spearman_rho=+0.3005[+0.2137,+0.3834]; A_primary/y705_eq_0_M3 n=488 positive=<10 Spearman_rho=+0.2903[+0.2041,+0.3740]
+SHA256_8 script=edb9c735; h1_tests.csv=81a8925b; sensitivity.csv=82655e36; exploratory.csv=324834c6; e3_oof.parquet=fcce8467; summary.json=8bf4802a
+=== END ===
