@@ -2,7 +2,7 @@
 
 Code, analysis plan, split files and frozen outputs for the manuscript:
 
-> Nguyen Diep QT, Huynh HN, Tran TN, Ching CTS. *A single-factor perturbation design for quantifying data leakage in clinical machine learning, with application to intrapartum cardiotocography.* (submitted to Artificial Intelligence in Medicine)
+> Manuscript submitted to *Artificial Intelligence in Medicine*: *A single-factor perturbation design for quantifying data leakage in clinical machine learning, with application to intrapartum cardiotocography.*
 
 ## What the study does
 The design changes one evaluation step at a time on identical data, folds, models and seeds, and adds label-permutation controls. It was applied to the CTU-UHB intrapartum CTG database: 552 recordings, primary outcome umbilical artery pH < 7.05, primary cohort 518 recordings with 30 events.
@@ -72,4 +72,4 @@ Code: MIT (see `LICENSE`). The CTU-UHB and FHRMA data and the FHRMA toolbox keep
 See `CITATION.cff`. The archived release has a Zenodo DOI.
 
 ## Contact
-Corresponding authors: Trung Nghia Tran (ttnghia@hcmut.edu.vn) and Congo Tak Shing Ching (tsching@nchu.edu.tw).
+Contact: Quoc Tuan Nguyen Diep (d113068003@mail.nchu.edu.tw).

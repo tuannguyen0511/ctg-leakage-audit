@@ -1,23 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Single-factor perturbation design for data leakage: application to intrapartum CTG (CTU-UHB)"
-version: 1.0.0
-date-released: 2026-11-17
+version: 1.0.2
+date-released: 2026-11-20
 license: MIT
 type: software
 authors:
   - family-names: "Nguyen Diep"
     given-names: "Quoc Tuan"
     affiliation: "National Chung Hsing University"
-  - family-names: "Huynh"
-    given-names: "Hoang Nhut"
-    affiliation: "National Chung Hsing University"
-  - family-names: "Tran"
-    given-names: "Trung Nghia"
-    affiliation: "Ho Chi Minh City University of Technology (HCMUT), VNU-HCM"
-  - family-names: "Ching"
-    given-names: "Congo Tak Shing"
-    affiliation: "National Chung Hsing University"
+    orcid: "https://orcid.org/0000-0002-5878-6152"
 keywords:
   - cardiotocography
   - data leakage
